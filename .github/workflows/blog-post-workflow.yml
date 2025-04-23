@@ -38,13 +38,9 @@ jobs:
 
         # Prepare markdown content
         markdown_content = "## Latest Blog Posts\\n\\n"
+        markdown_content += "<table>\\n"
+        
         for post in blog_posts[:5]:  # Get latest 5 posts
-            # Extract text from description HTML
-            soup = BeautifulSoup(post.description, 'html.parser')
-            description_text = soup.get_text()[:150].strip()
-            if len(soup.get_text()) > 150:
-                description_text += '...'
-            
             # Format the date nicely
             try:
                 from datetime import datetime
@@ -52,12 +48,14 @@ jobs:
             except:
                 pub_date = post.published[:10]
             
-            # Create a more visually appealing post format
-            markdown_content += f"### [{post.title}]({post.link})\\n"
-            markdown_content += f"<div align='right'><i>{pub_date}</i></div>\\n\\n"
-            markdown_content += f"{description_text}\\n\\n"
-            markdown_content += f"[Read more]({post.link})\\n\\n"
-            markdown_content += f"---\\n\\n"
+            # Create a simpler, cleaner format with emoji
+            markdown_content += f"<tr>\\n"
+            markdown_content += f"  <td>📝</td>\\n"
+            markdown_content += f"  <td><a href='{post.link}'>{post.title}</a></td>\\n"
+            markdown_content += f"  <td><code>{pub_date}</code></td>\\n"
+            markdown_content += f"</tr>\\n"
+        
+        markdown_content += "</table>\\n"
 
         # Update README.md
         readme_path = 'README.md'
