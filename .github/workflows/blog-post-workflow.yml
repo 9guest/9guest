@@ -1,24 +1,76 @@
-name: Latest blog post workflow
+name: Update Blog Posts on Profile
+
 on:
   schedule:
-    # Runs every day at 00:00
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-blog:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in blog posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://nin-blog.vercel.app/index.xml"
-          max_post_count: 5
-          template: "- [**$title**]($url) - $date\n  > $description"
-          filter_comments: "https://ninblog.ycstation.work/post/"
-          date_format: "yyyy-MM-dd"
-          description_max_length: 100
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install feedparser beautifulsoup4
+
+    - name: Fetch and process RSS feed
+      run: |
+        python <<EOF
+        import feedparser
+        from bs4 import BeautifulSoup
+        import os
+
+        # Parse the RSS feed
+        feed = feedparser.parse("https://nin-blog.vercel.app/index.xml")
+
+        # Filter items where guid starts with the post URL
+        blog_posts = [entry for entry in feed.entries 
+                     if entry.get('guid', '').startswith('https://ninblog.ycstation.work/post/')]
+
+        # Prepare markdown content
+        markdown_content = "## Latest Blog Posts\\n\\n"
+        for post in blog_posts[:5]:  # Get latest 5 posts
+            # Extract text from description HTML
+            soup = BeautifulSoup(post.description, 'html.parser')
+            description_text = soup.get_text()[:150] + '...'  # First 150 chars
+            
+            markdown_content += f"- [{post.title}]({post.link}) - {post.published[:10]}\\n"
+            markdown_content += f"  {description_text}\\n\\n"
+
+        # Update README.md
+        readme_path = 'README.md'
+        
+        # Read existing content
+        with open(readme_path, 'r') as f:
+            content = f.read()
+        
+        # Find and replace the blog posts section
+        start_marker = "<!-- BLOG-POSTS:START -->"
+        end_marker = "<!-- BLOG-POSTS:END -->"
+        
+        start_index = content.find(start_marker) + len(start_marker)
+        end_index = content.find(end_marker)
+        
+        new_content = content[:start_index] + "\\n" + markdown_content + "\\n" + content[end_index:]
+        
+        # Write back to file
+        with open(readme_path, 'w') as f:
+            f.write(new_content)
+        EOF
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md
+        git commit -m "Update latest blog posts" || echo "No changes to commit"
+        git push
