@@ -1,0 +1,23 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every day at 00:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://ninblog.ycstation.work/index.xml"
+          max_post_count: 5
+          template: "- [**$title**]($url) - $date\n  > $description"
+          filter_include: "https://ninblog.ycstation.work/post/"
+          date_format: "yyyy-MM-dd"
+          description_max_length: 100
