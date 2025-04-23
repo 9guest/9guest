@@ -44,7 +44,7 @@ jobs:
             # Format the date nicely
             try:
                 from datetime import datetime
-                pub_date = datetime.strptime(post.published[:10], '%Y-%m-%d').strftime('%b %d, %Y')
+                pub_date = datetime.strptime(post.published[:10], '%Y-%m-%d').strftime('%B %d, %Y')
             except:
                 pub_date = post.published[:10]
             
