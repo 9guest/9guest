@@ -41,10 +41,23 @@ jobs:
         for post in blog_posts[:5]:  # Get latest 5 posts
             # Extract text from description HTML
             soup = BeautifulSoup(post.description, 'html.parser')
-            description_text = soup.get_text()[:150] + '...'  # First 150 chars
+            description_text = soup.get_text()[:150].strip()
+            if len(soup.get_text()) > 150:
+                description_text += '...'
             
-            markdown_content += f"- [{post.title}]({post.link}) - {post.published[:10]}\\n"
-            markdown_content += f"  {description_text}\\n\\n"
+            # Format the date nicely
+            try:
+                from datetime import datetime
+                pub_date = datetime.strptime(post.published[:10], '%Y-%m-%d').strftime('%b %d, %Y')
+            except:
+                pub_date = post.published[:10]
+            
+            # Create a more visually appealing post format
+            markdown_content += f"### [{post.title}]({post.link})\\n"
+            markdown_content += f"<div align='right'><i>{pub_date}</i></div>\\n\\n"
+            markdown_content += f"{description_text}\\n\\n"
+            markdown_content += f"[Read more]({post.link})\\n\\n"
+            markdown_content += f"---\\n\\n"
 
         # Update README.md
         readme_path = 'README.md'
