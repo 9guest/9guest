@@ -1,4 +1,3 @@
-## My Latest Blog Posts
 <!-- BLOG-POSTS:START -->
 ## Latest Blog Posts
 
