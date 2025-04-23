@@ -18,6 +18,7 @@ jobs:
           feed_list: "https://ninblog.ycstation.work/index.xml"
           max_post_count: 5
           template: "- [**$title**]($url) - $date\n  > $description"
-          filter_include: "https://ninblog.ycstation.work/post/"
+          filter_comments: "https://ninblog.ycstation.work/post/"
           date_format: "yyyy-MM-dd"
           description_max_length: 100
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
