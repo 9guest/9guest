@@ -43,12 +43,23 @@
 
 [![My Tools](https://skillicons.dev/icons?i=androidstudio,apple,arch,arduino,bash,cloudflare,codepen,debian,discord,github,gmail,heroku,idea,instagram,linkedin,linux,mastodon,mint,notion,postman,powershell,raspberrypi,stackoverflow,twitter,ubuntu,vercel,vscode,webstorm,windows&perline=10)](https://skillicons.dev)
 
+## More
+
+<details>
+
+  <summary>🌟 GitHub Trends</summary>
+
+  <a href="#">![Github stats](https://api.githubtrends.io/user/svg/9guest/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic)</a>
+  <a href="#">![Top Langs](https://api.githubtrends.io/user/svg/9guest/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic)</a>
+
+</details>
+
 <details>
 
   <summary>📈 GitHub Stats</summary>
 
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=9guest&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9guest&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9guest&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="9guest's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9guest&layout=compact&theme=transparent&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 </details>
 
