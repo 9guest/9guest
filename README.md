@@ -4,6 +4,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25042501/'>Clip Studio Paint：强大的绘画软件</a></td>
+  <td><code>Fri, 25 Ap</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25042201/'>Ventoy：开源的多系统启动U盘制作工具</a></td>
   <td><code>Tue, 22 Ap</code></td>
 </tr>
@@ -21,11 +26,6 @@
   <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25041901/'>终身每月获得 150 美元的 xAI API 额度?</a></td>
   <td><code>Sat, 19 Ap</code></td>
-</tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25041501/'>_BLZ_的同人像素鼠标指针</a></td>
-  <td><code>Tue, 15 Ap</code></td>
 </tr>
 </table>
 
