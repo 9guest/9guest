@@ -1,4 +1,5 @@
 ![yc-profile](./resource/profile-banner.gif)
+
 <!-- BLOG-POSTS:START -->
 ## Latest Blog Posts
 
@@ -34,6 +35,27 @@
 
 <!-- BLOG-POSTS:END -->
 
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,discordjs,django,docker,html,css,js,electron,express,flask,gcp,git,kafka,mongodb,mysql,npm,redis,spring,vercel,yarn)](https://skillicons.dev)
+
+
+<details>
+
+  <summary>📈 GitHub Stats</summary>
+
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=9guest&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9guest&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
+</details>
+
+<details>
+
+  <summary>🏆 GitHub Trophies</summary>
+
+  ![My GitHub trophies](https://github-profile-trophy.vercel.app/?username=9guest&theme=radical&no-frame=true&no-bg=true)
+
+</details>
 
 <details>
   
