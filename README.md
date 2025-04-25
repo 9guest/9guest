@@ -74,6 +74,8 @@
 <details>
   
   <summary>📊 My Coding Stats</summary>
+ 
+  <br>
 
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
