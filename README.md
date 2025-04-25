@@ -1,3 +1,4 @@
+![yc-profile](./resource/profile-banner.gif)
 <!-- BLOG-POSTS:START -->
 ## Latest Blog Posts
 

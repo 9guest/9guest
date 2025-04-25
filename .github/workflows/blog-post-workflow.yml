@@ -44,9 +44,11 @@ jobs:
             # Format the date nicely
             try:
                 from datetime import datetime
-                pub_date = datetime.strptime(post.published[:10], '%Y-%m-%d').strftime('%B %d, %Y')
+                date_obj = datetime.strptime(post.published[:10], '%Y-%m-%d')
+                # Format with emoji and better styling
+                pub_date = f"📅 {date_obj.strftime('%a, %d %b %Y')}"
             except:
-                pub_date = post.published[:10]
+                pub_date = f"📅 {post.published[:10]}"
             
             # Create a simpler, cleaner format with emoji
             markdown_content += f"<tr>\\n"
@@ -56,6 +58,11 @@ jobs:
             markdown_content += f"</tr>\\n"
         
         markdown_content += "</table>\\n"
+        
+        # Add update timestamp
+        from datetime import datetime
+        current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+        markdown_content += f"\\n<p align='right'><sup><i>Last updated: {current_time}</i></sup></p>\\n"
 
         # Update README.md
         readme_path = 'README.md'
