@@ -1,5 +1,12 @@
 ![yc-profile](./resource/profile-banner.gif)
 
+---
+
+> Hey! I'm a new blogger and a curious coder, excited to share my projects and explore the blend of technology and creativity. I believe tech brings out endless possibilities, and creativity gives tech a human touch. Join me on this amazing journey!
+> 
+> 嗨！我是一名新晋博主兼好奇的程序员，喜欢分享自己的项目，探索科技与创造力的融合。我相信科技能激发无限创意，而创意又让科技充满温度。如果你也对这个领域感兴趣，欢迎和我一起踏上这段奇妙的旅程！
+---
+
 <!-- BLOG-POSTS:START -->
 ## Latest Blog Posts
 
