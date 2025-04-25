@@ -33,7 +33,7 @@
 <!-- BLOG-POSTS:END -->
 
 <img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  src="https://github.com/9guest/9guest/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
 
