@@ -32,6 +32,11 @@
 
 <!-- BLOG-POSTS:END -->
 
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
 ## 📊 My Coding Stats
 
 <!--START_SECTION:waka-->
