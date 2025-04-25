@@ -37,8 +37,11 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,discordjs,django,docker,html,css,js,electron,express,flask,gcp,git,kafka,mongodb,mysql,npm,redis,spring,vercel,yarn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,discordjs,bots,django,docker,html,css,js,bootstrap,jquery,electron,express,flask,gcp,git,githubactions,kafka,markdown,mongodb,mysql,npm,python,redis,spring,yarn&perline=10)](https://skillicons.dev)
 
+## My Tools
+
+[![My Tools](https://skillicons.dev/icons?i=androidstudio,apple,arch,arduino,bash,cloudflare,codepen,debian,discord,github,gmail,heroku,idea,instagram,linkedin,linux,mastodon,mint,notion,postman,powershell,raspberrypi,stackoverflow,twitter,ubuntu,vercel,vscode,webstorm,windows&perline=10)](https://skillicons.dev)
 
 <details>
 
