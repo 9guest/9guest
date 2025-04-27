@@ -13,6 +13,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25042701/'>Pollinations.AI：释放创意的开源 AI 平台</a></td>
+  <td><code>📅 Sun, 27 Ap</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25042501/'>Clip Studio Paint：强大的绘画软件</a></td>
   <td><code>📅 Fri, 25 Ap</code></td>
 </tr>
@@ -31,14 +36,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25042001/'>ClawCloud Run 云平台终身每月免费送 $5！</a></td>
   <td><code>📅 Sun, 20 Ap</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25041901/'>终身每月获得 150 美元的 xAI API 额度?</a></td>
-  <td><code>📅 Sat, 19 Ap</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-04-27 14:11 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-04-27 15:13 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
