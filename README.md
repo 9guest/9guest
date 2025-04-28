@@ -13,6 +13,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25042801/'>AigcPanel：一站式AI数字人系统的创新之作</a></td>
+  <td><code>📅 Mon, 28 Ap</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25042701/'>Pollinations.AI：释放创意的开源 AI 平台</a></td>
   <td><code>📅 Sun, 27 Ap</code></td>
 </tr>
@@ -31,14 +36,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25042101/'>Internet Download Manager：下载加速的得力助手</a></td>
   <td><code>📅 Mon, 21 Ap</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25042001/'>ClawCloud Run 云平台终身每月免费送 $5！</a></td>
-  <td><code>📅 Sun, 20 Ap</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-04-28 08:43 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-04-28 10:48 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
