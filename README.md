@@ -13,6 +13,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25050601/'>Pot：打破语言壁垒的开源翻译利器</a></td>
+  <td><code>📅 Tue, 06 Ma</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25042901/'>Typora：Markdown 编辑器的不二之选</a></td>
   <td><code>📅 Tue, 29 Ap</code></td>
 </tr>
@@ -31,14 +36,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25042501/'>Clip Studio Paint：强大的绘画软件</a></td>
   <td><code>📅 Fri, 25 Ap</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25042201/'>Ventoy：开源的多系统启动U盘制作工具</a></td>
-  <td><code>📅 Tue, 22 Ap</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-05-06 06:34 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-05-06 12:52 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
