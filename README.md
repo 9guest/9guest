@@ -13,6 +13,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25051401/'>WR.DO：一站式开源工具平台，提升你的工作效率</a></td>
+  <td><code>📅 Wed, 14 Ma</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25050601/'>Pot：打破语言壁垒的开源翻译利器</a></td>
   <td><code>📅 Tue, 06 Ma</code></td>
 </tr>
@@ -31,14 +36,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25042701/'>Pollinations.AI：释放创意的开源 AI 平台</a></td>
   <td><code>📅 Sun, 27 Ap</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25042501/'>Clip Studio Paint：强大的绘画软件</a></td>
-  <td><code>📅 Fri, 25 Ap</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-05-14 06:35 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-05-14 12:51 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
