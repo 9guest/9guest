@@ -87,7 +87,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -147,7 +147,7 @@ CSS                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 16/05/2025 12:21:31 UTC
+ Last Updated on 16/05/2025 18:15:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
