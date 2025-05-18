@@ -110,29 +110,28 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    36 hrs 19 mins      ███████████████████████░░   91.52 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-YAML                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-RMarkdown                36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Other                    34 hrs 42 mins      ███████████████████████░░   91.65 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+RMarkdown                36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+HTML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Chrome                   36 hrs 57 mins      ███████████████████████░░   93.13 % 
-VS Code                  2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Histre                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Edge                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Chrome                   35 hrs 28 mins      ███████████████████████░░   93.66 % 
+VS Code                  2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Edge                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-Travelers-Backpack       11 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-easyVoice                11 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-Week2_Data_Tidying_Lab   7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-nin-blog                 4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Soulslike-Weaponry       3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+easyVoice                14 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
+Travelers-Backpack       7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Week2_Data_Tidying_Lab   7 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+nin-blog                 3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Soulslike-Weaponry       3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 💻 Operating System: 
-Windows                  39 hrs 16 mins      █████████████████████████   98.95 % 
-Unknown OS               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Windows                  37 hrs 51 mins      █████████████████████████   99.96 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -147,7 +146,7 @@ CSS                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 17/05/2025 18:13:47 UTC
+ Last Updated on 18/05/2025 00:58:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
