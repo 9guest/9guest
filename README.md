@@ -87,7 +87,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -110,28 +110,28 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    31 hrs 48 mins      ███████████████████████░░   90.51 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-RMarkdown                36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-HTML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other                    33 hrs 36 mins      ███████████████████████░░   91.58 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+RMarkdown                36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 46 mins      ███████████████████████░░   93.27 % 
-VS Code                  2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Edge                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Chrome                   34 hrs 20 mins      ███████████████████████░░   93.56 % 
+VS Code                  2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Edge                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-easyVoice                15 hrs 13 mins      ███████████░░░░░░░░░░░░░░   43.33 % 
-Week2_Data_Tidying_Lab   7 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-nin-blog                 3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Soulslike-Weaponry       3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Travelers-Backpack       2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+easyVoice                15 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.49 % 
+ControlLeap              7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Week2_Data_Tidying_Lab   7 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+nin-blog                 3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Soulslike-Weaponry       58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Windows                  35 hrs 7 mins       █████████████████████████   99.96 % 
+Windows                  36 hrs 41 mins      █████████████████████████   99.96 % 
 Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -146,7 +146,7 @@ CSS                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 19/05/2025 18:15:45 UTC
+ Last Updated on 20/05/2025 00:55:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
