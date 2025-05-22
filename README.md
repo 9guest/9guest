@@ -87,6 +87,8 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2026%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📅 **I'm Most Productive on Monday** 
@@ -108,29 +110,28 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    30 hrs 21 mins      ███████████████████████░░   92.64 % 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-YAML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    27 hrs 41 mins      ████████████████████████░   96.23 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+RMarkdown                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-Chrome                   31 hrs 15 mins      ████████████████████████░   95.35 % 
-VS Code                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Edge                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Chrome                   28 hrs 19 mins      █████████████████████████   98.43 % 
+VS Code                  25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Edge                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-easyVoice                15 hrs 13 mins      ████████████░░░░░░░░░░░░░   46.47 % 
-ControlLeap              7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-nin-blog                 3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-csc3107lab3              2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Week2_Data_Tidying_Lab   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+easyVoice                14 hrs 23 mins      ████████████░░░░░░░░░░░░░   50.00 % 
+ControlLeap              7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+csc3107lab3              4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+FingerLike               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+YesPlayMusic             26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Windows                  32 hrs 45 mins      █████████████████████████   99.95 % 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Windows                  28 hrs 41 mins      █████████████████████████   99.72 % 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +145,7 @@ CSS                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 21/05/2025 18:15:50 UTC
+ Last Updated on 22/05/2025 00:54:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
