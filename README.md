@@ -87,7 +87,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -110,27 +110,27 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    24 hrs 54 mins      ████████████████████████░   97.96 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-RMarkdown                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    26 hrs 19 mins      █████████████████████████   98.77 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+RMarkdown                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 16 mins      █████████████████████████   99.43 % 
-VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Chrome                   26 hrs 39 mins      █████████████████████████   99.94 % 
 Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-csc3107lab3              8 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   33.97 % 
-easyVoice                7 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
-ControlLeap              7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-FingerLike               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Rdatasets                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+csc3107lab3              13 hrs 48 mins      █████████████░░░░░░░░░░░░   51.79 % 
+ControlLeap              7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+easyVoice                4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+FingerLike               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Rdatasets                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 💻 Operating System: 
-Windows                  25 hrs 20 mins      █████████████████████████   99.69 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Windows                  26 hrs 34 mins      █████████████████████████   99.70 % 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +144,7 @@ CSS                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 23/05/2025 18:14:04 UTC
+ Last Updated on 24/05/2025 00:52:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
