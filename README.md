@@ -110,27 +110,27 @@ Sunday                   4 commits           ████████░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    26 hrs 19 mins      █████████████████████████   98.77 % 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-RMarkdown                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    30 hrs 27 mins      █████████████████████████   98.77 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+RMarkdown                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 39 mins      █████████████████████████   99.94 % 
-Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Chrome                   30 hrs 46 mins      █████████████████████████   99.79 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Terminal                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-csc3107lab3              13 hrs 48 mins      █████████████░░░░░░░░░░░░   51.79 % 
-ControlLeap              7 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-easyVoice                4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-FingerLike               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Rdatasets                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+csc3107lab3              21 hrs 2 mins       █████████████████░░░░░░░░   68.19 % 
+ControlLeap              7 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+easyVoice                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+FingerLike               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Rdatasets                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 💻 Operating System: 
-Windows                  26 hrs 34 mins      █████████████████████████   99.70 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Windows                  30 hrs 45 mins      █████████████████████████   99.74 % 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +144,7 @@ CSS                      1 repo              █████░░░░░░�
 
 
 
- Last Updated on 24/05/2025 18:13:39 UTC
+ Last Updated on 25/05/2025 00:59:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
