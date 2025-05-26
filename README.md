@@ -5,6 +5,16 @@
 > Hey! I'm a new blogger and a curious coder, excited to share my projects and explore the blend of technology and creativity. I believe tech brings out endless possibilities, and creativity gives tech a human touch. Join me on this amazing journey!
 > 
 > 嗨！我是一名新晋博主兼好奇的程序员，喜欢分享自己的项目，探索科技与创造力的融合。我相信科技能激发无限创意，而创意又让科技充满温度。如果你也对这个领域感兴趣，欢迎和我一起踏上这段奇妙的旅程！
+
+![GitHub followers](https://img.shields.io/github/followers/9guest?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/9guest?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=ninguest&color=brightgreen)
+![Languages](https://img.shields.io/badge/EN-ZH-violet)
+[![Self](https://img.shields.io/badge/自我描述-理智型宅男-blueviolet)](https://ninblog.ycstation.work/peek/)
+[![Blog](https://img.shields.io/badge/博客中-NinBlog-brightgreen)](https://ninblog.ycstation.work)
+![Coding](https://img.shields.io/badge/热爱-尝试新事物-orange)
+[![Music](https://img.shields.io/badge/喜欢の音乐-绝美戏腔｜抒情 怀念 伤感的古风歌曲-red)](https://music.163.com/#/playlist?id=7826780259)
+![Code Time](https://img.shields.io/badge/Coding_Time-200%2B_hrs-blue)
 ---
 
 <!-- BLOG-POSTS:START -->
