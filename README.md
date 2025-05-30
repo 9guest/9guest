@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
@@ -120,27 +120,27 @@ Sunday                   4 commits           ███████░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    40 hrs 29 mins      ████████████████████████░   94.28 % 
-Markdown                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-RMarkdown                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-CSV                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Other                    38 hrs 1 min        ███████████████████████░░   93.53 % 
+Markdown                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+CSV                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+RMarkdown                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   41 hrs 18 mins      ████████████████████████░   96.17 % 
-Edge                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Chrome                   39 hrs              ████████████████████████░   95.96 % 
+Edge                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Histre                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-csc3107lab3              27 hrs 23 mins      ████████████████░░░░░░░░░   63.77 % 
-samba_ynh                6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-awesome-public-datasets  3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-9guest                   2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-community                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+csc3107lab3              22 hrs 52 mins      ██████████████░░░░░░░░░░░   56.28 % 
+samba_ynh                6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+awesome-public-datasets  3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+9guest                   2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+distributions            2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-Windows                  42 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 38 mins      █████████████████████████   100.00 % 
 Unknown OS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -156,7 +156,7 @@ Ruby                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 29/05/2025 18:15:30 UTC
+ Last Updated on 30/05/2025 00:54:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
