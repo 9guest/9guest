@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
 
@@ -120,28 +120,28 @@ Sunday                   4 commits           ███████░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    41 hrs 8 mins       ███████████████████████░░   93.14 % 
-Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-CSV                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-RMarkdown                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other                    36 hrs 36 mins      ███████████████████████░░   92.49 % 
+Markdown                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+CSV                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+RMarkdown                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Chrome                   38 hrs 39 mins      ██████████████████████░░░   87.50 % 
-Histre                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Edge                     1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-VS Code                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Chrome                   34 hrs 18 mins      ██████████████████████░░░   86.68 % 
+Histre                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Edge                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+VS Code                  31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🐱‍💻 Projects: 
-distributions            13 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.41 % 
-csc3107lab3              10 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-samba_ynh                6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-awesome-public-datasets  3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-Unknown Project          3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+distributions            13 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.94 % 
+samba_ynh                6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+nin-blog                 4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+awesome-public-datasets  3 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+csc3107lab3              3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 💻 Operating System: 
-Windows                  41 hrs 6 mins       ███████████████████████░░   93.07 % 
-Unknown OS               3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Windows                  36 hrs 31 mins      ███████████████████████░░   92.27 % 
+Unknown OS               3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +156,7 @@ Ruby                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 01/06/2025 18:14:14 UTC
+ Last Updated on 02/06/2025 00:57:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
