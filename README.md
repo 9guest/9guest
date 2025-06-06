@@ -97,20 +97,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   6 commits           ████████░░░░░░░░░░░░░░░░░   31.58 % 
-Tuesday                  5 commits           ███████░░░░░░░░░░░░░░░░░░   26.32 % 
-Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   2 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Sunday                   4 commits           █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Monday                   6 commits           ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Tuesday                  5 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Thursday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Friday                   7 commits           ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Sunday                   4 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 ```
 
 
@@ -120,28 +120,28 @@ Sunday                   4 commits           █████░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    41 hrs 53 mins      ████████████████████████░   96.72 % 
-Markdown                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    46 hrs 15 mins      ████████████████████████░   97.10 % 
+Markdown                 51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+YAML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Chrome                   38 hrs 12 mins      ██████████████████████░░░   88.21 % 
-Histre                   3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Edge                     49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-VS Code                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Chrome                   42 hrs 2 mins       ██████████████████████░░░   88.26 % 
+Histre                   3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Edge                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-distributions            13 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   31.02 % 
-CSC3107_TerrorismIndex_Vi12 hrs 26 mins      ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-nin-blog                 8 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-scrcpy                   4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Unknown Project          4 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+CSC3107_TerrorismIndex_Vi12 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+distributions            11 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
+nin-blog                 8 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+ericdit.com-refactor     6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+scrcpy                   4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 
 💻 Operating System: 
-Windows                  39 hrs 19 mins      ███████████████████████░░   90.80 % 
-Unknown OS               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Windows                  43 hrs 39 mins      ███████████████████████░░   91.63 % 
+Unknown OS               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +156,7 @@ Ruby                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 05/06/2025 12:22:16 UTC
+ Last Updated on 06/06/2025 00:54:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
