@@ -97,9 +97,9 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -156,7 +156,7 @@ Ruby                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 09/06/2025 00:58:46 UTC
+ Last Updated on 09/06/2025 06:18:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
