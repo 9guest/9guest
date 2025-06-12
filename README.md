@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -120,28 +120,28 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    47 hrs 6 mins       ████████████████████████░   97.40 % 
-MDX                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-TOML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    48 hrs 35 mins      ████████████████████████░   97.37 % 
+MDX                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Chrome                   45 hrs 23 mins      ███████████████████████░░   93.84 % 
-Histre                   1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Edge                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Chrome                   45 hrs 36 mins      ███████████████████████░░   91.39 % 
+Histre                   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Edge                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 VS Code                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🐱‍💻 Projects: 
-PCL2                     16 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.48 % 
-CSC3107_TerrorismIndex_Vi8 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-ericdit.com-refactor     6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-rcon-cli                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-dls-worker               4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+PCL2                     24 hrs 37 mins      ████████████░░░░░░░░░░░░░   49.32 % 
+ericdit.com-refactor     6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
+rcon-cli                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+dls-worker               4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+MoeKey                   4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 
 💻 Operating System: 
-Windows                  46 hrs 27 mins      ████████████████████████░   96.06 % 
-Unknown OS               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Windows                  46 hrs 48 mins      ███████████████████████░░   93.77 % 
+Unknown OS               3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -156,7 +156,7 @@ Ruby                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 11/06/2025 18:16:04 UTC
+ Last Updated on 12/06/2025 00:55:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
