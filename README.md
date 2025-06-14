@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-315%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -120,28 +120,30 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    46 hrs 3 mins       ████████████████████████░   96.39 % 
-MDX                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    42 hrs 15 mins      ████████████████████████░   95.13 % 
+HTML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Markdown                 32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+MDX                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Image (svg)              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Chrome                   43 hrs 30 mins      ███████████████████████░░   91.07 % 
-Histre                   3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-VS Code                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Edge                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Chrome                   40 hrs 42 mins      ███████████████████████░░   91.66 % 
+Histre                   2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+VS Code                  1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Edge                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-PCL2                     27 hrs 38 mins      ██████████████░░░░░░░░░░░   57.85 % 
-rcon-cli                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-dls-worker               4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-MoeKey                   4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Unknown Project          3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+PCL2                     27 hrs 38 mins      ████████████████░░░░░░░░░   62.23 % 
+rcon-cli                 5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+nin-blog                 4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+MoeKey                   3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Unknown Project          2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 💻 Operating System: 
-Windows                  44 hrs 40 mins      ███████████████████████░░   93.50 % 
-Unknown OS               3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Windows                  42 hrs 5 mins       ████████████████████████░   94.75 % 
+Unknown OS               2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Mac                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -156,7 +158,7 @@ Ruby                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 13/06/2025 18:15:30 UTC
+ Last Updated on 14/06/2025 00:53:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
