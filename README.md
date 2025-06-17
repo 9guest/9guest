@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25061701/'>WF-1000XM4 🆚 WF-1000XM5</a></td>
+  <td><code>📅 Tue, 17 Ju</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25051601/'>TV Garden：探索全球电视的奇妙新方式</a></td>
   <td><code>📅 Fri, 16 Ma</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25051401/'>WR.DO：一站式开源工具平台，提升你的工作效率</a></td>
   <td><code>📅 Wed, 14 Ma</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25050601/'>Pot：打破语言壁垒的开源翻译利器</a></td>
-  <td><code>📅 Tue, 06 Ma</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-06-17 02:06 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-06-17 06:37 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
