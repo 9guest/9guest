@@ -97,20 +97,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   6 commits           █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Tuesday                  9 commits           ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Wednesday                1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Thursday                 2 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Friday                   7 commits           ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Monday                   6 commits           ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Tuesday                  9 commits           ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+Wednesday                5 commits           ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Thursday                 2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Friday                   7 commits           █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Sunday                   4 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
 
 
@@ -146,19 +146,19 @@ Unknown OS               2 hrs 7 mins        █░░░░░░░░░░�
 Mac                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
-**I Mostly Code in HTML** 
+**I Mostly Code in JavaScript** 
 
 ```text
-HTML                     3 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-JavaScript               2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-CSS                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Ruby                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+HTML                     3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Ruby                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
 
 
- Last Updated on 18/06/2025 06:17:22 UTC
+ Last Updated on 18/06/2025 12:22:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
