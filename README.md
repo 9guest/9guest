@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25061801/'>免费域名，开启你的数字世界</a></td>
+  <td><code>📅 Wed, 18 Ju</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25061701/'>WF-1000XM4 🆚 WF-1000XM5</a></td>
   <td><code>📅 Tue, 17 Ju</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25051501/'>EasyVoice：开启智能文本转语音的新篇章</a></td>
   <td><code>📅 Thu, 15 Ma</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25051401/'>WR.DO：一站式开源工具平台，提升你的工作效率</a></td>
-  <td><code>📅 Wed, 14 Ma</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-06-18 06:37 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-06-18 12:54 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
