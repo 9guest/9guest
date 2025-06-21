@@ -120,30 +120,30 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    40 hrs 3 mins       ████████████████████░░░░░   81.68 % 
-Markdown                 3 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-RMarkdown                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Other                    43 hrs 42 mins      █████████████████████░░░░   83.61 % 
+Markdown                 2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+RMarkdown                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+JavaScript               1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Chrome                   40 hrs 38 mins      █████████████████████░░░░   82.85 % 
-VS Code                  6 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Histre                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Edge                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-GitHubDesktop            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Chrome                   44 hrs 42 mins      █████████████████████░░░░   85.50 % 
+VS Code                  5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Histre                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Edge                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+GitHubDesktop            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-nin-blog                 23 hrs 28 mins      ████████████░░░░░░░░░░░░░   47.86 % 
-CSC3107_TerrorismIndex_Vi12 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-MediaSplitter            5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-FlClash                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Unknown Project          1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+nin-blog                 19 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.08 % 
+CSC3107_TerrorismIndex_Vi12 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+ffmpeg-push              6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+MediaSplitter            5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+FlClash                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 
 💻 Operating System: 
-Windows                  47 hrs 5 mins       ████████████████████████░   96.00 % 
-Unknown OS               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Mac                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Windows                  50 hrs 11 mins      ████████████████████████░   96.03 % 
+Unknown OS               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Mac                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,7 +158,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 18:15:43 UTC
+ Last Updated on 21/06/2025 00:54:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
