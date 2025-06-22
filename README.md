@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -158,7 +158,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 12:19:29 UTC
+ Last Updated on 22/06/2025 18:14:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
