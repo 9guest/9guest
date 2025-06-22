@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-377%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,30 +120,30 @@ Sunday                   4 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    43 hrs 42 mins      █████████████████████░░░░   83.61 % 
-Markdown                 2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-RMarkdown                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-YAML                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-JavaScript               1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Other                    46 hrs 6 mins       █████████████████████░░░░   83.23 % 
+Markdown                 3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+RMarkdown                1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+YAML                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JavaScript               1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Chrome                   44 hrs 42 mins      █████████████████████░░░░   85.50 % 
-VS Code                  5 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Histre                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Edge                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Chrome                   47 hrs 22 mins      █████████████████████░░░░   85.49 % 
+VS Code                  6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Histre                   1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Edge                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 GitHubDesktop            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-nin-blog                 19 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   37.08 % 
-CSC3107_TerrorismIndex_Vi12 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-ffmpeg-push              6 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-MediaSplitter            5 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-FlClash                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+nin-blog                 21 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.70 % 
+CSC3107_TerrorismIndex_Vi12 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+ffmpeg-push              6 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+MediaSplitter            5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+FlClash                  2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 
 💻 Operating System: 
-Windows                  50 hrs 11 mins      ████████████████████████░   96.03 % 
-Unknown OS               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Mac                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Windows                  53 hrs 19 mins      ████████████████████████░   96.26 % 
+Unknown OS               1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Mac                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,7 +158,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 21/06/2025 18:13:52 UTC
+ Last Updated on 22/06/2025 01:01:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
