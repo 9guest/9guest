@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/25041901/'>【活动已结束】终身每月获得 150 美元的 xAI API 额度?</a></td>
+  <td><code>📅 Sat, 19 Ap</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25061801/'>免费域名，开启你的数字世界</a></td>
   <td><code>📅 Wed, 18 Ju</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25051502/'>Windows Cleaner：一款简单、安全且强大的系统清理工具</a></td>
   <td><code>📅 Thu, 15 Ma</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25051501/'>EasyVoice：开启智能文本转语音的新篇章</a></td>
-  <td><code>📅 Thu, 15 Ma</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-06-30 06:38 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-06-30 12:54 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
