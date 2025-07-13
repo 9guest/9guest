@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-498%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,26 +120,26 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    40 hrs 10 mins      ████████████████████████░   97.53 % 
-JSON                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Other                    42 hrs 10 mins      ████████████████████████░   97.66 % 
+JSON                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   40 hrs 59 mins      █████████████████████████   99.54 % 
-Edge                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Chrome                   43 hrs 5 mins       █████████████████████████   99.81 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Edge                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-Black and Orange Modern C19 hrs 20 mins      ████████████░░░░░░░░░░░░░   46.96 % 
-twitterxdownload         10 hrs 48 mins      ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-Moment                   5 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-clash-verge-rev          2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-leMinion                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Black and Orange Modern C25 hrs 28 mins      ███████████████░░░░░░░░░░   59.01 % 
+twitterxdownload         10 hrs 48 mins      ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+clash-verge-rev          2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Moment                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+leMinion                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 💻 Operating System: 
-Windows                  41 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +154,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 12/07/2025 18:14:50 UTC
+ Last Updated on 13/07/2025 01:03:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
