@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-506%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-508%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,26 +120,17 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    8 hrs 55 mins       ████████████████████████░   96.93 % 
-Image (svg)              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    4 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 3 mins        █████████████████████████   98.40 % 
-Edge                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Histre                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Chrome                   4 hrs 51 mins       █████████████████████████   99.84 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-api.discord.com          7 hrs 41 mins       █████████████████████░░░░   83.62 % 
-Black and Orange Modern C1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-zhenxun_bot-deploy       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-zhenxun_bot              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-FuckOrNot-Gradio         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+api.discord.com          4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 12 mins       █████████████████████████   100.00 % 
-Unknown OS               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +145,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 20/07/2025 18:15:33 UTC
+ Last Updated on 21/07/2025 01:02:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
