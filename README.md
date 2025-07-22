@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-507%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,17 +120,23 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    4 hrs 52 mins       █████████████████████████   100.00 % 
+Other                    9 hrs               ████████████████████████░   96.31 % 
+Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 51 mins       █████████████████████████   99.84 % 
-Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Chrome                   9 hrs 20 mins       █████████████████████████   99.91 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-api.discord.com          4 hrs 52 mins       █████████████████████████   100.00 % 
+api.discord.com          4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
+AyuGramDesktop           2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
+for-win                  1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+bitvpn                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Unigram                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -145,7 +151,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 21/07/2025 18:17:53 UTC
+ Last Updated on 22/07/2025 00:59:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
