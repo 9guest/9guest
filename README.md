@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,23 +120,23 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    9 hrs               ████████████████████████░   96.31 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Other                    12 hrs 33 mins      ████████████████████████░   97.04 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 20 mins       █████████████████████████   99.91 % 
-Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Chrome                   12 hrs 56 mins      █████████████████████████   99.94 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-api.discord.com          4 hrs 15 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
-AyuGramDesktop           2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.83 % 
-for-win                  1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-bitvpn                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Unigram                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+bitvpn                   4 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
+api.discord.com          4 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+AyuGramDesktop           2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+for-win                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Unigram                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  9 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  12 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -151,7 +151,7 @@ Ruby                     1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 22/07/2025 18:17:24 UTC
+ Last Updated on 23/07/2025 01:00:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
