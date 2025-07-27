@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,25 +120,25 @@ Sunday                   6 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    24 hrs 51 mins      ████████████████████████░   95.23 % 
-HTML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    28 hrs 55 mins      ███████████████████████░░   92.06 % 
+HTML                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 44 mins      █████████████████████████   98.59 % 
-VS Code                  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Chrome                   29 hrs 48 mins      ████████████████████████░   94.87 % 
+VS Code                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 
 🐱‍💻 Projects: 
-Green and Orange Minimali8 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.79 % 
-bitvpn                   5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-navigating-nature        5 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-AyuGramDesktop           2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-api.discord.com          2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+navigating-nature        11 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.29 % 
+Green and Orange Minimali8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+bitvpn                   5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+AyuGramDesktop           2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+for-win                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 💻 Operating System: 
-Windows                  26 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  31 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2025 18:15:44 UTC
+ Last Updated on 27/07/2025 01:05:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
