@@ -97,20 +97,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-538%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Tuesday                  19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-Wednesday                23 commits          ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Thursday                 12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Monday                   7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Tuesday                  19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Wednesday                23 commits          ███████░░░░░░░░░░░░░░░░░░   27.38 % 
+Thursday                 12 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
 ```
 
 
@@ -120,40 +120,40 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    28 hrs 55 mins      ███████████████████████░░   92.06 % 
-HTML                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    31 hrs 36 mins      ███████████████████████░░   91.27 % 
+HTML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Chrome                   29 hrs 48 mins      ████████████████████████░   94.87 % 
-VS Code                  1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Chrome                   32 hrs 56 mins      ████████████████████████░   95.15 % 
+VS Code                  1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
 
 🐱‍💻 Projects: 
-navigating-nature        11 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   37.29 % 
-Green and Orange Minimali8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-bitvpn                   5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-AyuGramDesktop           2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-for-win                  1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+navigating-nature        13 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.15 % 
+Green and Orange Minimali8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+bitvpn                   5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+AyuGramDesktop           2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+ThriveX-Admin            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 💻 Operating System: 
-Windows                  31 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-JavaScript               4 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+HTML                     5 repos             ███████████░░░░░░░░░░░░░░   45.45 % 
+JavaScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 27/07/2025 18:15:32 UTC
+ Last Updated on 28/07/2025 01:03:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
