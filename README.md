@@ -97,20 +97,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-550%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Tuesday                  19 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Wednesday                23 commits          ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Tuesday                  27 commits          ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+Wednesday                23 commits          ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+Thursday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
 
 
@@ -120,25 +120,25 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    31 hrs 36 mins      ███████████████████████░░   91.27 % 
-HTML                     2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Other                    28 hrs 43 mins      ██████████████████████░░░   88.60 % 
+HTML                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+JavaScript               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 56 mins      ████████████████████████░   95.15 % 
-VS Code                  1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Chrome                   29 hrs 49 mins      ███████████████████████░░   91.97 % 
+VS Code                  2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🐱‍💻 Projects: 
-navigating-nature        13 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.15 % 
-Green and Orange Minimali8 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-bitvpn                   5 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-AyuGramDesktop           2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-ThriveX-Admin            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+navigating-nature        15 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.85 % 
+Green and Orange Minimali8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+bitvpn                   4 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+renamiq                  1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+ThriveX-Admin            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 💻 Operating System: 
-Windows                  34 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 18:17:45 UTC
+ Last Updated on 29/07/2025 01:05:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
