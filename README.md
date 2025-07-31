@@ -97,7 +97,49 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-561%20hrs%2051%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Tuesday                  27 commits          ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Wednesday                26 commits          ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+Thursday                 14 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+Other                    27 hrs 55 mins      ██████████████████░░░░░░░   71.81 % 
+HTML                     5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+YAML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+
+🔥 Editors: 
+Chrome                   30 hrs 20 mins      ████████████████████░░░░░   78.02 % 
+VS Code                  8 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+
+🐱‍💻 Projects: 
+navigating-nature        15 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
+Green and Orange Minimali7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+renamiq                  5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+nin-blog                 4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+hugo-theme-reimu-main    1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+
+💻 Operating System: 
+Windows                  38 hrs 53 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in HTML** 
 
@@ -111,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 18:17:31 UTC
+ Last Updated on 31/07/2025 01:00:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
