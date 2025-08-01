@@ -97,20 +97,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Tuesday                  27 commits          ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Thursday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Friday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Thursday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+Friday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Sunday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
 ```
 
 
@@ -120,25 +120,25 @@ Sunday                   11 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    27 hrs 55 mins      ██████████████████░░░░░░░   71.81 % 
-HTML                     5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-YAML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Other                    26 hrs 40 mins      █████████████████░░░░░░░░   66.63 % 
+HTML                     7 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
+YAML                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 20 mins      ████████████████████░░░░░   78.02 % 
-VS Code                  8 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Chrome                   29 hrs 6 mins       ██████████████████░░░░░░░   72.73 % 
+VS Code                  10 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 
 🐱‍💻 Projects: 
-navigating-nature        15 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   38.88 % 
-Green and Orange Minimali7 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-renamiq                  5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-nin-blog                 4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-hugo-theme-reimu-main    1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+navigating-nature        20 hrs 57 mins      █████████████░░░░░░░░░░░░   52.35 % 
+renamiq                  5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+nin-blog                 4 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Green and Orange Minimali3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+hugo-theme-reimu-main    1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 💻 Operating System: 
-Windows                  38 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 18:18:15 UTC
+ Last Updated on 01/08/2025 01:07:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
