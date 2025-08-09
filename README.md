@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -120,25 +120,25 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    22 hrs 7 mins       ██████████████████░░░░░░░   70.74 % 
-HTML                     5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JavaScript               35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Other                    19 hrs 42 mins      ██████████████████░░░░░░░   70.17 % 
+HTML                     3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+CSS                      50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 8 mins       ███████████████████░░░░░░   74.02 % 
-VS Code                  8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+Chrome                   20 hrs 42 mins      ██████████████████░░░░░░░   73.69 % 
+VS Code                  7 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
 
 🐱‍💻 Projects: 
-navigating-nature        16 hrs 55 mins      ██████████████░░░░░░░░░░░   54.13 % 
-nin-blog                 12 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   41.08 % 
-Poster Design            49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-hugo-blog                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-ThriveX-Server           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+nin-blog                 16 hrs              ██████████████░░░░░░░░░░░   56.98 % 
+navigating-nature        9 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.58 % 
+ninguest.github.io       1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+Poster Design            48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+hugo-blog                25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 💻 Operating System: 
-Windows                  31 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  28 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2025 18:15:09 UTC
+ Last Updated on 09/08/2025 00:55:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
