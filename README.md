@@ -97,20 +97,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Wednesday                26 commits          ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
-Thursday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-Friday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Thursday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Friday                   16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 ```
 
 
@@ -120,25 +120,25 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    26 hrs 11 mins      █████████████████████░░░░   82.51 % 
-JavaScript               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    27 hrs              █████████████████████░░░░   82.60 % 
+JavaScript               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 41 mins      █████████████████████░░░░   84.05 % 
-VS Code                  5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Chrome                   27 hrs 37 mins      █████████████████████░░░░   84.51 % 
+VS Code                  5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 
 🐱‍💻 Projects: 
-usi-community-fridges    13 hrs 28 mins      ███████████░░░░░░░░░░░░░░   42.42 % 
-nin-blog                 7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
-echo                     6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-OreExcavation            3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-rcon-cli                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+usi-community-fridges    11 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
+nin-blog                 7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+echo                     7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+OreExcavation            3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+LottieViewConvert        1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 💻 Operating System: 
-Windows                  31 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 12:21:50 UTC
+ Last Updated on 19/08/2025 18:16:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
