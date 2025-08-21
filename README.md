@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-651%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,25 +120,25 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    27 hrs              █████████████████████░░░░   82.60 % 
-JavaScript               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-HTML                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other                    28 hrs 14 mins      ████████████████████░░░░░   81.11 % 
+JavaScript               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+JSON                     1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Markdown                 40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 37 mins      █████████████████████░░░░   84.51 % 
-VS Code                  5 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Chrome                   29 hrs 58 mins      ██████████████████████░░░   86.08 % 
+VS Code                  4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 
 🐱‍💻 Projects: 
-usi-community-fridges    11 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
-nin-blog                 7 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-echo                     7 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-OreExcavation            3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-LottieViewConvert        1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+nin-blog                 7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+echo                     7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+PCL                      5 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+usi-community-fridges    4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+OreExcavation            3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 
 💻 Operating System: 
-Windows                  32 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 18:16:26 UTC
+ Last Updated on 21/08/2025 00:52:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
