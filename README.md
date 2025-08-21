@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202508211906/'>想玩《我的世界》吗？试试 PCL 吧！</a></td>
+  <td><code>📅 Thu, 21 Au</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25042101/'>Internet Download Manager：下载加速的得力助手</a></td>
   <td><code>📅 Mon, 21 Ap</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25061701/'>WF-1000XM4 🆚 WF-1000XM5</a></td>
   <td><code>📅 Tue, 17 Ju</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25051601/'>TV Garden：探索全球电视的奇妙新方式</a></td>
-  <td><code>📅 Fri, 16 Ma</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-08-21 12:52 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-08-21 18:34 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
