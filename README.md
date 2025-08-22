@@ -23,6 +23,16 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202508221647/'>把文件“甩”出去就好——URUSAI! 体验小记</a></td>
+  <td><code>📅 Fri, 22 Au</code></td>
+</tr>
+<tr>
+  <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202508221732/'>AI专业面部分析工具</a></td>
+  <td><code>📅 Fri, 22 Au</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202508211906/'>想玩《我的世界》吗？试试 PCL 吧！</a></td>
   <td><code>📅 Thu, 21 Au</code></td>
 </tr>
@@ -36,19 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25041901/'>【活动已结束】终身每月获得 150 美元的 xAI API 额度?</a></td>
   <td><code>📅 Sat, 19 Ap</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25061801/'>免费域名，开启你的数字世界</a></td>
-  <td><code>📅 Wed, 18 Ju</code></td>
-</tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25061701/'>WF-1000XM4 🆚 WF-1000XM5</a></td>
-  <td><code>📅 Tue, 17 Ju</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-08-22 06:37 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-08-22 12:51 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
