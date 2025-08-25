@@ -97,20 +97,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Friday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Tuesday                  27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Wednesday                28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Sunday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025 12:22:10 UTC
+ Last Updated on 25/08/2025 18:16:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
