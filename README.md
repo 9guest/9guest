@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202508312101/'>重返像素王国：Retro Games Nexus 带你一键回到童年</a></td>
+  <td><code>📅 Sun, 31 Au</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202508221647/'>把文件“甩”出去就好——URUSAI! 体验小记</a></td>
   <td><code>📅 Fri, 22 Au</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25042101/'>Internet Download Manager：下载加速的得力助手</a></td>
   <td><code>📅 Mon, 21 Ap</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25041901/'>【活动已结束】终身每月获得 150 美元的 xAI API 额度?</a></td>
-  <td><code>📅 Sat, 19 Ap</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-08-31 12:46 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-08-31 18:31 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
