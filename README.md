@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-708%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,25 +120,25 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    28 hrs 45 mins      ██████████████████████░░░   89.15 % 
-JavaScript               2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-HTML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-PHP                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    22 hrs 48 mins      ██████████████████████░░░   87.96 % 
+JavaScript               1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+PHP                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-Chrome                   29 hrs 17 mins      ███████████████████████░░   90.87 % 
-VS Code                  2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+Chrome                   23 hrs 18 mins      ██████████████████████░░░   89.95 % 
+VS Code                  2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 
 🐱‍💻 Projects: 
-nin-blog                 10 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   34.13 % 
-scrcpy                   9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.63 % 
-Discord-CustomRP         4 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-BD2ModManager            4 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-nin-blog-public          2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+scrcpy                   9 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.29 % 
+nin-blog                 7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+BD2ModManager            4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+uparcelapp               2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+nin-blog-public          2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 Operating System: 
-Windows                  32 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2025 18:15:13 UTC
+ Last Updated on 02/09/2025 00:52:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
