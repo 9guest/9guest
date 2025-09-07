@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202509072213/'>颜值与实力并存：试试这款开源跨平台终端神器 Termora</a></td>
+  <td><code>📅 Sun, 07 Se</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/25042901/'>Typora：Markdown 编辑器的不二之选</a></td>
   <td><code>📅 Tue, 29 Ap</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/202508221732/'>AI专业面部分析工具</a></td>
   <td><code>📅 Fri, 22 Au</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202508211906/'>想玩《我的世界》吗？试试 PCL 吧！</a></td>
-  <td><code>📅 Thu, 21 Au</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-09-07 12:43 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-09-07 18:30 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
