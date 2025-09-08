@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-739%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,25 +120,25 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    24 hrs 24 mins      ███████████████░░░░░░░░░░   58.81 % 
-Markdown                 5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-JavaScript               4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-HTML                     3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Python                   2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Other                    20 hrs 52 mins      ██████████████░░░░░░░░░░░   57.66 % 
+Markdown                 5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+JavaScript               3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+HTML                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Python                   2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 40 mins      ███████████████░░░░░░░░░░   61.89 % 
-VS Code                  15 hrs 48 mins      ██████████░░░░░░░░░░░░░░░   38.11 % 
+Chrome                   22 hrs 10 mins      ███████████████░░░░░░░░░░   61.26 % 
+VS Code                  14 hrs 1 min        ██████████░░░░░░░░░░░░░░░   38.74 % 
 
 🐱‍💻 Projects: 
-nin-blog                 13 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   32.79 % 
-uparcelapp               11 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-uparceldelivery          9 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-scrcpy                   4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-ninguest.github.io       2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+uparcelapp               11 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   31.81 % 
+nin-blog                 10 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   28.59 % 
+uparceldelivery          9 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+ninguest.github.io       4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+scrcpy                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Windows                  41 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  36 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -152,7 +152,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 18:13:08 UTC
+ Last Updated on 08/09/2025 00:54:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
