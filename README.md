@@ -120,25 +120,25 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    25 hrs 44 mins      ██████████████░░░░░░░░░░░   54.29 % 
-JavaScript               7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Python                   4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-HTML                     2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-Groovy                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Other                    23 hrs 47 mins      █████████████░░░░░░░░░░░░   51.65 % 
+JavaScript               9 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Python                   4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Groovy                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 30 mins      ███████████████░░░░░░░░░░   60.17 % 
-VS Code                  18 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   39.83 % 
+Chrome                   26 hrs 8 mins       ██████████████░░░░░░░░░░░   56.76 % 
+VS Code                  19 hrs 54 mins      ███████████░░░░░░░░░░░░░░   43.24 % 
 
 🐱‍💻 Projects: 
-uparceldelivery          14 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   30.90 % 
-nin-blog                 9 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-smartAdmin               8 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-uparcel_flutter          6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-ninguest.github.io       4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+smartAdmin               16 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.20 % 
+uparceldelivery          10 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+uparcel_flutter          6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+nin-blog                 4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+ninguest.github.io       4 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
 
 💻 Operating System: 
-Windows                  47 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2025 18:13:51 UTC
+ Last Updated on 12/09/2025 00:49:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
