@@ -120,25 +120,25 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    23 hrs 2 mins       █████████████░░░░░░░░░░░░   51.55 % 
-JavaScript               11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Python                   3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Groovy                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Text                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Other                    21 hrs 17 mins      ████████████░░░░░░░░░░░░░   49.29 % 
+JavaScript               11 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+Python                   3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Groovy                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Text                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 31 mins      ██████████████░░░░░░░░░░░   57.19 % 
-VS Code                  19 hrs 6 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+Chrome                   23 hrs 44 mins      ██████████████░░░░░░░░░░░   54.98 % 
+VS Code                  19 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.02 % 
 
 🐱‍💻 Projects: 
-smartAdmin               24 hrs 46 mins      ██████████████░░░░░░░░░░░   55.52 % 
-uparceldelivery          7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-uparcel_flutter          6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-ippt-trainer             2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-ninguest.github.io       2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+smartAdmin               25 hrs 10 mins      ███████████████░░░░░░░░░░   58.29 % 
+uparceldelivery          7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+uparcel_flutter          6 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+ippt-trainer             2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+uparcelchengz.github.io  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Windows                  44 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2025 18:13:06 UTC
+ Last Updated on 15/09/2025 00:54:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
