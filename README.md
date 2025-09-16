@@ -120,25 +120,25 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    22 hrs 10 mins      █████████████░░░░░░░░░░░░   51.66 % 
-JavaScript               12 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-Python                   2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Rust                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Other                    22 hrs 52 mins      █████████████░░░░░░░░░░░░   53.08 % 
+JavaScript               11 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+JSON                     2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+Python                   2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Rust                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 36 mins      ██████████████░░░░░░░░░░░   57.33 % 
-VS Code                  18 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.67 % 
+Chrome                   25 hrs 21 mins      ███████████████░░░░░░░░░░   58.86 % 
+VS Code                  17 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.14 % 
 
 🐱‍💻 Projects: 
-smartAdmin               25 hrs 10 mins      ███████████████░░░░░░░░░░   58.65 % 
-uparceldelivery          5 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-nin-blog                 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-tauri-app                2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-tauri                    2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+smartAdmin               22 hrs 1 min        █████████████░░░░░░░░░░░░   51.12 % 
+uparceldelivery          5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+nin-blog                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+tauri-app                2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+tauri                    2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 💻 Operating System: 
-Windows                  42 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -153,7 +153,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2025 12:21:22 UTC
+ Last Updated on 16/09/2025 18:16:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
