@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -144,16 +144,17 @@ Windows                  42 hrs 1 min        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71 % 
-Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
+HTML                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Dart                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 18/09/2025 00:49:06 UTC
+ Last Updated on 18/09/2025 06:16:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
