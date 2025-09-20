@@ -120,25 +120,25 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    25 hrs              ███████████████░░░░░░░░░░   59.68 % 
-JavaScript               4 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-JSON                     3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Python                   2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Bash                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Other                    25 hrs 44 mins      ██████████████░░░░░░░░░░░   57.97 % 
+Python                   4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+JavaScript               3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JSON                     3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+TypeScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 10 mins      ████████████████░░░░░░░░░   64.84 % 
-VS Code                  14 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   35.16 % 
+Chrome                   27 hrs 45 mins      ████████████████░░░░░░░░░   62.51 % 
+VS Code                  16 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   37.49 % 
 
 🐱‍💻 Projects: 
-smartAdmin               9 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-uparceldelivery          4 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-warehouse_ims_backend    4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-nin-blog                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-rn2025                   3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+warehouse_ims_backend    6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+uparceldelivery          5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+warehouse_inventory      5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+nin-blog                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+smartAdmin               3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 
 💻 Operating System: 
-Windows                  41 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  44 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +154,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 18:15:34 UTC
+ Last Updated on 20/09/2025 00:48:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
