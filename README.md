@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202509212351/'>SnapTube：一键把在线视频揣进口袋</a></td>
+  <td><code>📅 Sun, 21 Se</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202508312101/'>重返像素王国：Retro Games Nexus 带你一键回到童年</a></td>
   <td><code>📅 Sun, 31 Au</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/25042901/'>Typora：Markdown 编辑器的不二之选</a></td>
   <td><code>📅 Tue, 29 Ap</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202508221647/'>把文件“甩”出去就好——URUSAI! 体验小记</a></td>
-  <td><code>📅 Fri, 22 Au</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-09-21 12:45 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-09-21 18:31 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
