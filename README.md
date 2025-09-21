@@ -120,25 +120,25 @@ Sunday                   12 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    25 hrs 44 mins      ██████████████░░░░░░░░░░░   57.97 % 
-Python                   4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-JavaScript               3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-JSON                     3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-TypeScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Other                    24 hrs 52 mins      ██████████████░░░░░░░░░░░   57.76 % 
+Python                   4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+JSON                     3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+JavaScript               3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+TypeScript               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 45 mins      ████████████████░░░░░░░░░   62.51 % 
-VS Code                  16 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   37.49 % 
+Chrome                   26 hrs 24 mins      ███████████████░░░░░░░░░░   61.34 % 
+VS Code                  16 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   38.66 % 
 
 🐱‍💻 Projects: 
-warehouse_ims_backend    6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-uparceldelivery          5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-warehouse_inventory      5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-nin-blog                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-smartAdmin               3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+warehouse_inventory      7 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+warehouse_ims_backend    6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+uparceldelivery          5 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+nin-blog                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+rn2025                   3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 💻 Operating System: 
-Windows                  44 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +154,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 18:13:10 UTC
+ Last Updated on 21/09/2025 00:55:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
