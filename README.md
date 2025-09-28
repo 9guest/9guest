@@ -23,6 +23,16 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202509282241/'>三个“小而美”的影视站</a></td>
+  <td><code>📅 Sun, 28 Se</code></td>
+</tr>
+<tr>
+  <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202509282055/'>SnowShot：雪花般轻盈的截图工具</a></td>
+  <td><code>📅 Sun, 28 Se</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202509212351/'>SnapTube：一键把在线视频揣进口袋</a></td>
   <td><code>📅 Sun, 21 Se</code></td>
 </tr>
@@ -36,19 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/202509072213/'>颜值与实力并存：试试这款开源跨平台终端神器 Termora</a></td>
   <td><code>📅 Sun, 07 Se</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202509090942/'>WAU Manager : 把 Windows Update 抢回自己手里</a></td>
-  <td><code>📅 Tue, 09 Se</code></td>
-</tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25042901/'>Typora：Markdown 编辑器的不二之选</a></td>
-  <td><code>📅 Tue, 29 Ap</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-09-28 12:45 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-09-28 18:30 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
