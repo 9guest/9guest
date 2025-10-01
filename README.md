@@ -97,49 +97,9 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Tuesday                  28 commits          █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Wednesday                28 commits          █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-Thursday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Friday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-Other                    29 hrs 43 mins      █████████████████░░░░░░░░   67.43 % 
-Python                   6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-JavaScript               6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-HTML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-🔥 Editors: 
-Chrome                   32 hrs 26 mins      ██████████████████░░░░░░░   73.70 % 
-VS Code                  11 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-
-🐱‍💻 Projects: 
-warehouse_inventory      8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-uparceldelivery          8 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-odroid-server            6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-nin-blog                 4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-smartAdmin               3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-
-💻 Operating System: 
-Windows                  44 hrs              █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -154,7 +114,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2025 12:22:41 UTC
+ Last Updated on 01/10/2025 18:15:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
