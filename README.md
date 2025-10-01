@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-882%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -120,25 +120,25 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    32 hrs 47 mins      ██████████████████░░░░░░░   72.72 % 
-JavaScript               6 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Python                   4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Git Config               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Other                    29 hrs 43 mins      █████████████████░░░░░░░░   67.43 % 
+Python                   6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+JavaScript               6 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+HTML                     52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Chrome                   35 hrs 5 mins       ███████████████████░░░░░░   77.92 % 
-VS Code                  9 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Chrome                   32 hrs 26 mins      ██████████████████░░░░░░░   73.70 % 
+VS Code                  11 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   26.30 % 
 
 🐱‍💻 Projects: 
-warehouse_inventory      10 hrs 56 mins      ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-warehouse_ims_backend    7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-odroid-server            6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-smartAdmin               6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-nin-blog                 4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+warehouse_inventory      8 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+uparceldelivery          8 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+odroid-server            6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+nin-blog                 4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+smartAdmin               3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 💻 Operating System: 
-Windows                  45 hrs 1 min        █████████████████████████   100.00 % 
+Windows                  44 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +154,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2025 18:15:26 UTC
+ Last Updated on 01/10/2025 00:57:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
