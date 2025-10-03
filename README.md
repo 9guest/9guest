@@ -120,25 +120,25 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    30 hrs 5 mins       █████████████████░░░░░░░░   68.24 % 
-Python                   7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-HTML                     3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-JavaScript               2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Ignore List              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    28 hrs 46 mins      ███████████████░░░░░░░░░░   61.17 % 
+Python                   7 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+JavaScript               5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+HTML                     3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Chrome                   32 hrs 36 mins      ██████████████████░░░░░░░   73.94 % 
-VS Code                  11 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Chrome                   31 hrs 37 mins      █████████████████░░░░░░░░   67.25 % 
+VS Code                  15 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   32.75 % 
 
 🐱‍💻 Projects: 
-uparceldelivery          22 hrs 26 mins      █████████████░░░░░░░░░░░░   50.91 % 
-odroid-server            6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-nin-blog                 4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-electron-builder         2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-MeowNocode               2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+uparceldelivery          24 hrs 54 mins      █████████████░░░░░░░░░░░░   52.95 % 
+minimal-repro-main       4 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+nin-blog                 4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+electron-builder         2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+MeowNocode               2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 💻 Operating System: 
-Windows                  44 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  47 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +154,7 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 12:20:59 UTC
+ Last Updated on 03/10/2025 18:15:28 UTC
 <!--END_SECTION:waka-->
 
 </details>
