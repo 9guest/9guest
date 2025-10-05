@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202510051326/'>拥抱自由直播：为什么 Owncast 是你下一个直播平台的理想选择</a></td>
+  <td><code>📅 Sun, 05 Oc</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202509292155/'>恋风壁纸：高质量电脑壁纸和手机壁纸下载点</a></td>
   <td><code>📅 Mon, 29 Se</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/202509212351/'>SnapTube：一键把在线视频揣进口袋</a></td>
   <td><code>📅 Sun, 21 Se</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202508312101/'>重返像素王国：Retro Games Nexus 带你一键回到童年</a></td>
-  <td><code>📅 Sun, 31 Au</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-10-05 02:01 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-10-05 06:32 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
