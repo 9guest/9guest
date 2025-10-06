@@ -23,6 +23,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202510061412/'>把“收藏”变“生产力”—— GitHub Star Manager 深度体验</a></td>
+  <td><code>📅 Mon, 06 Oc</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202510051326/'>拥抱自由直播：为什么 Owncast 是你下一个直播平台的理想选择</a></td>
   <td><code>📅 Sun, 05 Oc</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/202509282055/'>SnowShot：雪花般轻盈的截图工具</a></td>
   <td><code>📅 Sun, 28 Se</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202509212351/'>SnapTube：一键把在线视频揣进口袋</a></td>
-  <td><code>📅 Sun, 21 Se</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-10-06 01:54 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-10-06 06:36 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
