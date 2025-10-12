@@ -120,25 +120,25 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    26 hrs 30 mins      ██████████████░░░░░░░░░░░   56.27 % 
-JavaScript               12 hrs 47 mins      ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Python                   3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-CSS                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-HTML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Other                    26 hrs 44 mins      ██████████████░░░░░░░░░░░   55.61 % 
+JavaScript               13 hrs 31 mins      ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Python                   3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+CSS                      1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+HTML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 7 mins       ███████████████░░░░░░░░░░   59.71 % 
-VS Code                  18 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   40.29 % 
+Chrome                   28 hrs 22 mins      ███████████████░░░░░░░░░░   58.98 % 
+VS Code                  19 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   41.02 % 
 
 🐱‍💻 Projects: 
-smartAdmin-app           29 hrs 11 mins      ███████████████░░░░░░░░░░   61.97 % 
-uparceldelivery          8 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-owncast                  3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-minimal-repro-main       2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-docling                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+smartAdmin-app           31 hrs              ████████████████░░░░░░░░░   64.45 % 
+uparceldelivery          8 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+owncast                  3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+docling                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+minimal-repro-main       1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-Windows                  47 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  48 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +154,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2025 18:13:07 UTC
+ Last Updated on 12/10/2025 00:53:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
