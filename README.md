@@ -33,6 +33,11 @@
 </tr>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202510131139/'>3MB 的绿色小工具，把电脑硬件查得明明白白</a></td>
+  <td><code>📅 Mon, 13 Oc</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202509292155/'>恋风壁纸：高质量电脑壁纸和手机壁纸下载点</a></td>
   <td><code>📅 Mon, 29 Se</code></td>
 </tr>
@@ -41,14 +46,9 @@
   <td><a href='https://ninblog.ycstation.work/post/202509282241/'>三个“小而美”的影视站</a></td>
   <td><code>📅 Sun, 28 Se</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202509282055/'>SnowShot：雪花般轻盈的截图工具</a></td>
-  <td><code>📅 Sun, 28 Se</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-10-13 02:00 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-10-13 06:38 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
