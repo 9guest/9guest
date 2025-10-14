@@ -97,7 +97,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -120,25 +120,27 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    23 hrs 6 mins       █████████████░░░░░░░░░░░░   51.79 % 
-JavaScript               14 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   31.85 % 
-Python                   3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-HTML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-CSS                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Other                    24 hrs 18 mins      ██████████████░░░░░░░░░░░   55.85 % 
+JavaScript               11 hrs 28 mins      ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Python                   3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+HTML                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+CSS                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 36 mins      ██████████████░░░░░░░░░░░   55.12 % 
-VS Code                  20 hrs 1 min        ███████████░░░░░░░░░░░░░░   44.88 % 
+Chrome                   25 hrs 48 mins      ███████████████░░░░░░░░░░   59.30 % 
+VS Code                  17 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.58 % 
+Quark                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-smartAdmin-app           29 hrs 23 mins      ████████████████░░░░░░░░░   65.87 % 
-uparceldelivery          8 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-owncast                  2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-docling                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-relaxi-bot               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+smartAdmin-app           26 hrs 15 mins      ███████████████░░░░░░░░░░   60.32 % 
+uparceldelivery          10 hrs 49 mins      ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+docling                  1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+owncast                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+relaxi-bot               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 💻 Operating System: 
-Windows                  44 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  43 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,7 +156,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2025 18:15:44 UTC
+ Last Updated on 14/10/2025 00:51:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
