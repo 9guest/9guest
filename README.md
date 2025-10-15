@@ -15,6 +15,7 @@
 ![Coding](https://img.shields.io/badge/热爱-尝试新事物-orange)
 [![Music](https://img.shields.io/badge/喜欢の音乐-绝美戏腔｜抒情 怀念 伤感的古风歌曲-red)](https://music.163.com/#/playlist?id=7826780259)
 ![Code Time](https://img.shields.io/badge/Coding_Time-200%2B_hrs-blue)
+[![wakatime](https://wakatime.com/badge/user/adf46c45-86c6-450e-ba3e-1ffd3c82071c.svg)](https://wakatime.com/@adf46c45-86c6-450e-ba3e-1ffd3c82071c)
 ---
 
 <!-- BLOG-POSTS:START -->
