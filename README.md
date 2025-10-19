@@ -98,7 +98,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C012%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -121,28 +121,28 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    24 hrs 23 mins      ████████████░░░░░░░░░░░░░   49.15 % 
-JavaScript               17 hrs 56 mins      █████████░░░░░░░░░░░░░░░░   36.14 % 
-HTML                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Python                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Other                    24 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.57 % 
+JavaScript               17 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.64 % 
+HTML                     2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 21 mins      ████████████░░░░░░░░░░░░░   47.05 % 
-VS Code                  23 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.95 % 
-Quark                    1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-AyuGramDesktop           52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-Notion                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Chrome                   23 hrs 18 mins      ████████████░░░░░░░░░░░░░   47.30 % 
+VS Code                  22 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.77 % 
+Quark                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+AyuGramDesktop           1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Notion                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-smartAdmin-app           34 hrs 4 mins       █████████████████░░░░░░░░   68.66 % 
-uparceldelivery          6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Unknown Project          2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-fastembed-js             1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-gamewiki                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+smartAdmin-app           33 hrs 16 mins      █████████████████░░░░░░░░   67.54 % 
+uparceldelivery          6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Unknown Project          3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+fastembed-js             1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+gamewiki                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  49 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  49 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,7 +158,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2025 18:14:13 UTC
+ Last Updated on 19/10/2025 00:58:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
