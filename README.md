@@ -24,6 +24,11 @@
 <table>
 <tr>
   <td>📝</td>
+  <td><a href='https://ninblog.ycstation.work/post/202512081229/'>发现宝藏下载神器：SnapAny，让视频图片保存变得轻而易举</a></td>
+  <td><code>📅 Mon, 08 De</code></td>
+</tr>
+<tr>
+  <td>📝</td>
   <td><a href='https://ninblog.ycstation.work/post/202510061412/'>把“收藏”变“生产力”—— GitHub Star Manager 深度体验</a></td>
   <td><code>📅 Mon, 06 Oc</code></td>
 </tr>
@@ -42,14 +47,9 @@
   <td><a href='https://ninblog.ycstation.work/post/202509292155/'>恋风壁纸：高质量电脑壁纸和手机壁纸下载点</a></td>
   <td><code>📅 Mon, 29 Se</code></td>
 </tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202509282241/'>三个“小而美”的影视站</a></td>
-  <td><code>📅 Sun, 28 Se</code></td>
-</tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2025-12-08 02:06 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2025-12-08 06:44 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 
