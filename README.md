@@ -98,20 +98,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C361%20hrs%2032%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Tuesday                  28 commits          █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Wednesday                29 commits          ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Thursday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Friday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Sunday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Tuesday                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Wednesday                41 commits          ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Thursday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
 ```
 
 
@@ -121,44 +121,42 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    24 hrs 25 mins      ████████████░░░░░░░░░░░░░   49.57 % 
-JavaScript               17 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   35.64 % 
-HTML                     2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Python                   1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Other                    6 hrs 58 mins       ████████████████████░░░░░   81.68 % 
+HTML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 18 mins      ████████████░░░░░░░░░░░░░   47.30 % 
-VS Code                  22 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.77 % 
-Quark                    1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-AyuGramDesktop           1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Notion                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Quark                    3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
+AyuGramDesktop           3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
+VS Code                  1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
 
 🐱‍💻 Projects: 
-smartAdmin-app           33 hrs 16 mins      █████████████████░░░░░░░░   67.54 % 
-uparceldelivery          6 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Unknown Project          3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-fastembed-js             1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-gamewiki                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Unknown Project          6 hrs 57 mins       ████████████████████░░░░░   81.63 % 
+9guest.github.io         49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+projectDocs              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+MyLearningKotlin         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+nin-blog                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
-Windows                  49 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             █████████████░░░░░░░░░░░░   52.94 % 
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 19/10/2025 12:19:48 UTC
+ Last Updated on 18/03/2026 09:35:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
