@@ -161,3 +161,16 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+<details>
+  <summary>😘 Support My Work</summary>
+  <br>
+  <div align="center">
+  
+  ### 💖 Support YC Lab
+    
+  If you use my tools and want to support further development, feel free to drop a tip!
+    
+  [<img src="https://img.shields.io/badge/Sponsor-YC_Lab-magenta?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://9guest.github.io/projectDocs/support/support.html)
+  
+  </div>
+</details>
