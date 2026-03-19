@@ -98,7 +98,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -106,9 +106,9 @@
 
 ```text
 Monday                   13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Tuesday                  38 commits          ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
-Wednesday                45 commits          ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Thursday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Tuesday                  36 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+Wednesday                43 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Thursday                 36 commits          █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
 Friday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
@@ -121,26 +121,27 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    6 hrs 58 mins       ████████████████████░░░░░   81.68 % 
-HTML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Other                    11 hrs 21 mins      ████████████████████░░░░░   80.74 % 
+HTML                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Quark                    3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   42.12 % 
-AyuGramDesktop           3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.51 % 
-VS Code                  1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Quark                    4 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   30.85 % 
+AyuGramDesktop           3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+Chrome                   3 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+VS Code                  2 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 hrs 57 mins       ████████████████████░░░░░   81.63 % 
-9guest.github.io         49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-projectDocs              38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-MyLearningKotlin         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-nin-blog                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Unknown Project          8 hrs 3 mins        ██████████████░░░░░░░░░░░   57.29 % 
+projectDocs              3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+9guest                   1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+9guest.github.io         49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+MyLearningKotlin         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Windows                  8 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -156,7 +157,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/03/2026 18:45:38 UTC
+ Last Updated on 19/03/2026 01:17:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
