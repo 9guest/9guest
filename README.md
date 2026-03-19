@@ -64,32 +64,6 @@
 ## More
 
 <details>
-
-  <summary>🌟 GitHub Trends</summary>
-
-  <a href="#">![Github stats](https://api.githubtrends.io/user/svg/9guest/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic)</a>
-  <a href="#">![Top Langs](https://api.githubtrends.io/user/svg/9guest/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic)</a>
-
-</details>
-
-<details>
-
-  <summary>📈 GitHub Stats</summary>
-
-  | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=9guest&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="9guest's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9guest&layout=compact&theme=transparent&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-</details>
-
-<details>
-
-  <summary>🏆 GitHub Trophies</summary>
-
-  ![My GitHub trophies](https://github-profile-trophy.vercel.app/?username=9guest&theme=radical&no-frame=true&no-bg=true)
-
-</details>
-
-<details>
   
   <summary>📊 My Coding Stats</summary>
  
@@ -99,8 +73,6 @@
   
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C363%20hrs%209%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 📅 **I'm Most Productive on Wednesday** 
 
