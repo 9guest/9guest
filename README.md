@@ -72,20 +72,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C419%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Tuesday                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Wednesday                44 commits          ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Thursday                 57 commits          ███████░░░░░░░░░░░░░░░░░░   28.50 % 
-Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Sunday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Tuesday                  37 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Wednesday                46 commits          ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Thursday                 57 commits          ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Friday                   24 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Sunday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 ```
 
 
@@ -121,17 +121,17 @@ Windows                  30 hrs 45 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JavaScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 01/04/2026 07:09:08 UTC
+ Last Updated on 01/04/2026 12:55:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
