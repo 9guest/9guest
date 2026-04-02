@@ -95,27 +95,27 @@ Sunday                   17 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    26 hrs 53 mins      ██████████████████████░░░   87.40 % 
-JavaScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-JSON                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-PowerShell               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    26 hrs 22 mins      ████████████████████░░░░░   78.33 % 
+JavaScript               3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+PowerShell               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-Chrome                   20 hrs 28 mins      █████████████████░░░░░░░░   66.56 % 
-Quark                    4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-VS Code                  3 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-AyuGramDesktop           2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Chrome                   19 hrs 44 mins      ███████████████░░░░░░░░░░   58.62 % 
+VS Code                  6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Quark                    3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+AyuGramDesktop           3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 🐱‍💻 Projects: 
-Unknown Project          7 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-learn-kotlin-endfield-wik6 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-scrcpy                   4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-ycs-appwrite-admin       3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-aiserver                 3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Unknown Project          7 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+learn-kotlin-endfield-wik7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+aiserver                 7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+ycs-appwrite-admin       3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Nexo                     2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 
 💻 Operating System: 
-Windows                  30 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +131,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2026 18:46:28 UTC
+ Last Updated on 02/04/2026 01:19:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
