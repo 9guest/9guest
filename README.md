@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C456%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C464%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,24 +85,25 @@ Sunday                   17 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    18 hrs 19 mins      ██████████████████████░░░   89.79 % 
-Java                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    25 hrs 14 mins      ███████████████████████░░   90.39 % 
+Java                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Chrome                   20 hrs 22 mins      █████████████████████████   99.86 % 
-AyuGramDesktop           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Chrome                   27 hrs 53 mins      █████████████████████████   99.89 % 
+AyuGramDesktop           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-endfield-calc            8 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
-learn-kotlin-endfield-wik7 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
-scrcpy                   3 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-ycs-appwrite-admin       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+learn-kotlin-endfield-wik9 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.76 % 
+endfield-calc            8 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.56 % 
+hugo                     6 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+scrcpy                   3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+nin-blog                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  20 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +119,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 19:01:21 UTC
+ Last Updated on 14/04/2026 01:29:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
