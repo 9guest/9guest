@@ -62,47 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C470%20hrs%2018%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Tuesday                  39 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Wednesday                46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Thursday                 59 commits          ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-Sunday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-Other                    22 hrs 38 mins      ████████████████████████░   96.29 % 
-JavaScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Java                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-
-🔥 Editors: 
-Chrome                   23 hrs 31 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-hugo                     10 hrs 26 mins      ███████████░░░░░░░░░░░░░░   44.40 % 
-learn-kotlin-endfield-wik9 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   39.03 % 
-EasyVtuber               2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-endfield-calc            1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-nin-blog                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-
-💻 Operating System: 
-Windows                  23 hrs 31 mins      █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -117,7 +77,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 18:43:52 UTC
+ Last Updated on 18/04/2026 01:22:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
