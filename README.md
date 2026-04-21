@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C748%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C751%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,22 +85,21 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    18 hrs 6 mins       ████████████████████████░   96.09 % 
-JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    13 hrs 35 mins      █████████████████████████   99.33 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 50 mins      █████████████████████████   100.00 % 
+Chrome                   13 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hugo                     10 hrs 26 mins      ██████████████░░░░░░░░░░░   55.41 % 
-EasyVtuber               6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   32.04 % 
-learn-kotlin-endfield-wik1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-endfield-minimaki        44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-nin-blog                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+EasyVtuber               6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.11 % 
+hugo                     3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.93 % 
+endfield-minimaki        3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+PNGTuber-Remix           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+endfield-auto-daily      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  18 hrs 50 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +115,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2026 18:52:01 UTC
+ Last Updated on 21/04/2026 01:28:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
