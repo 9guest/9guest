@@ -69,13 +69,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Tuesday                  39 commits          █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Wednesday                46 commits          █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Thursday                 59 commits          ███████░░░░░░░░░░░░░░░░░░   27.70 % 
-Friday                   27 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+Tuesday                  45 commits          █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Wednesday                48 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Thursday                 63 commits          ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 ```
 
 
@@ -105,17 +105,17 @@ Windows                  13 hrs 41 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+JavaScript               12 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 21/04/2026 01:28:56 UTC
+ Last Updated on 21/04/2026 07:22:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
