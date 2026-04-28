@@ -62,20 +62,20 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C770%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Tuesday                  49 commits          █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Wednesday                49 commits          █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Thursday                 63 commits          ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Tuesday                  54 commits          ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Wednesday                50 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Thursday                 63 commits          ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Sunday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 ```
 
 
@@ -85,21 +85,21 @@ Sunday                   20 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    10 hrs 56 mins      █████████████████████████   98.38 % 
-JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Other                    17 hrs              ████████████████████████░   95.95 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 7 mins       █████████████████████████   100.00 % 
+Chrome                   17 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-endfield-minimaki        8 hrs 19 mins       ███████████████████░░░░░░   74.93 % 
-REFramework-nightly      1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Awesome-BongoCat         1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-BongoCat                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-endfield-auto-daily      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Breeze                   6 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.69 % 
+endfield-minimaki        5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.44 % 
+REFramework-nightly      4 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Awesome-BongoCat         1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Lichen                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 💻 Operating System: 
-Windows                  11 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  17 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2026 13:28:31 UTC
+ Last Updated on 28/04/2026 19:19:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
