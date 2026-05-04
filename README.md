@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C788%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C791%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -85,21 +85,21 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    24 hrs 48 mins      ████████████████████████░   95.25 % 
-JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Other                    28 hrs 23 mins      ████████████████████████░   95.80 % 
+JavaScript               1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
 
 🔥 Editors: 
-Chrome                   26 hrs 2 mins       █████████████████████████   100.00 % 
+Chrome                   29 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-erodus                   10 hrs 9 mins       ██████████░░░░░░░░░░░░░░░   38.97 % 
-Breeze                   6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-smartAdmin-app           5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-REFramework-nightly      2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Lichen                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+erodus                   13 hrs 55 mins      ████████████░░░░░░░░░░░░░   46.97 % 
+Breeze                   6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+smartAdmin-app           5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+REFramework-nightly      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Lichen                   1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 💻 Operating System: 
-Windows                  26 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  29 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2026 18:43:46 UTC
+ Last Updated on 04/05/2026 01:54:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
