@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C806%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -85,21 +85,21 @@ Sunday                   21 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    26 hrs 8 mins       ████████████████████████░   96.77 % 
-JavaScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Other                    22 hrs 5 mins       ████████████████████████░   95.99 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 🔥 Editors: 
-Chrome                   27 hrs              █████████████████████████   100.00 % 
+Chrome                   23 hrs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-erodus                   20 hrs 48 mins      ███████████████████░░░░░░   77.02 % 
-smart-chat               6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-go-dmm                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-cheerio                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+erodus                   15 hrs 38 mins      █████████████████░░░░░░░░   67.99 % 
+smart-chat               7 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+cheerio                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+mkxp-z                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 AyuGramDesktop           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  27 hrs              █████████████████████████   100.00 % 
+Windows                  23 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2026 13:27:57 UTC
+ Last Updated on 07/05/2026 19:25:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
