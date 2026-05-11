@@ -85,21 +85,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    24 hrs 15 mins      ████████████████████████░   94.74 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Other                    22 hrs 51 mins      ████████████████████████░   94.45 % 
+JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-Chrome                   25 hrs 35 mins      █████████████████████████   100.00 % 
+Chrome                   24 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-erodus                   11 hrs 13 mins      ███████████░░░░░░░░░░░░░░   43.88 % 
-smart-chat               10 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   41.79 % 
-Veda-discord-bot         3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-relaxi-bot               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-MusicBot                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+smart-chat               10 hrs 41 mins      ███████████░░░░░░░░░░░░░░   44.21 % 
+erodus                   7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.84 % 
+Veda-discord-bot         5 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+relaxi-bot               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+MusicBot                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  25 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2026 18:45:44 UTC
+ Last Updated on 11/05/2026 02:06:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
