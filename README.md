@@ -62,7 +62,45 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C839%20hrs%2053%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Tuesday                  63 commits          ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
+Wednesday                54 commits          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Thursday                 70 commits          ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Saturday                 5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kuala_Lumpur
+
+💬 Programming Languages: 
+Other                    23 hrs 7 mins       █████████████████████████   98.15 % 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+
+🔥 Editors: 
+Chrome                   23 hrs 33 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Veda-discord-bot         8 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.21 % 
+omniget                  7 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+cloud-project            4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+plugins                  3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+xcloudx-wiki             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+
+💻 Operating System: 
+Windows                  23 hrs 33 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -77,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 18:54:08 UTC
+ Last Updated on 18/05/2026 02:15:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
