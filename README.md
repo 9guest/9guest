@@ -62,6 +62,8 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C852%20hrs%205%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
@@ -83,21 +85,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    15 hrs 6 mins       █████████████████████████   99.12 % 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    14 hrs 19 mins      █████████████████████████   99.07 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 14 mins      █████████████████████████   100.00 % 
+Chrome                   14 hrs 28 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL                      10 hrs 10 mins      █████████████████░░░░░░░░   66.82 % 
-omniget                  3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-xcloudx-wiki             1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Mizuki                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-9guest.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+PCL                      11 hrs 14 mins      ███████████████████░░░░░░   77.72 % 
+omniget                  1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+xcloudx-wiki             1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Mizuki                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+9guest.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  15 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 18:55:47 UTC
+ Last Updated on 24/05/2026 02:12:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
