@@ -85,21 +85,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    12 hrs 24 mins      █████████████████████████   99.43 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    8 hrs 47 mins       █████████████████████████   99.74 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 28 mins      █████████████████████████   100.00 % 
+Chrome                   8 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL                      11 hrs 31 mins      ███████████████████████░░   92.32 % 
-xcloudx-wiki             57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+PCL                      8 hrs 48 mins       █████████████████████████   99.91 % 
 signaturepdf             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-KillerPDF                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-obsidian-pdf-plus        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+KillerPDF                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+obsidian-pdf-plus        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PDF4QT                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  12 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 14:33:41 UTC
+ Last Updated on 25/05/2026 19:15:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
