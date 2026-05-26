@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C852%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C852%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,37 +85,34 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    8 hrs 47 mins       █████████████████████████   99.74 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    6 hrs 20 mins       █████████████████████████   99.99 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 49 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL                      8 hrs 48 mins       █████████████████████████   99.91 % 
-signaturepdf             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-KillerPDF                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-obsidian-pdf-plus        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-PDF4QT                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+PCL                      6 hrs 20 mins       █████████████████████████   99.99 % 
+cloud-project            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ████████████░░░░░░░░░░░░░   48.39 % 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               15 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
 
 
- Last Updated on 26/05/2026 14:42:38 UTC
+ Last Updated on 26/05/2026 19:55:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
