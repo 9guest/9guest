@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C853%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C852%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,18 +85,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    6 hrs 20 mins       █████████████████████████   99.99 % 
+Other                    5 hrs 50 mins       █████████████████████████   99.99 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 20 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL                      6 hrs 20 mins       █████████████████████████   99.99 % 
+PCL                      5 hrs 50 mins       █████████████████████████   99.99 % 
 cloud-project            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +112,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 14:54:27 UTC
+ Last Updated on 27/05/2026 19:59:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
