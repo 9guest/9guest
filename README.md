@@ -66,39 +66,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Tuesday                  65 commits          ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Wednesday                55 commits          █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Thursday                 70 commits          ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Saturday                 5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-Other                    5 hrs 50 mins       █████████████████████████   99.99 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Chrome                   5 hrs 50 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-PCL                      5 hrs 50 mins       █████████████████████████   99.99 % 
-cloud-project            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  5 hrs 50 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -112,7 +79,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 15:27:30 UTC
+ Last Updated on 28/05/2026 20:05:53 UTC
 <!--END_SECTION:waka-->
 
 </details>
