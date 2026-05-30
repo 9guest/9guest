@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C854%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C855%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,19 +85,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    5 hrs 53 mins       █████████████████████████   98.27 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Other                    4 hrs 3 mins        ████████████████████████░   97.50 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-Chrome                   6 hrs               █████████████████████████   100.00 % 
+Chrome                   4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL                      5 hrs 17 mins       ██████████████████████░░░   88.29 % 
-FoldCraftLauncher        42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-cloud-project            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+PCL                      2 hrs 27 mins       ███████████████░░░░░░░░░░   59.16 % 
+FoldCraftLauncher        1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+cloud-project            26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 20:08:14 UTC
+ Last Updated on 30/05/2026 02:04:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
