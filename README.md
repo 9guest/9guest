@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C855%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,19 +85,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    4 hrs 3 mins        ████████████████████████░   97.50 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    4 hrs 31 mins       ████████████████████████░   97.75 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 9 mins        █████████████████████████   100.00 % 
+Chrome                   4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PCL                      2 hrs 27 mins       ███████████████░░░░░░░░░░   59.16 % 
-FoldCraftLauncher        1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.16 % 
-cloud-project            26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+cloud-project            1 hr 58 mins        ███████████░░░░░░░░░░░░░░   42.57 % 
+PCL                      1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.31 % 
+FoldCraftLauncher        1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
 
 💻 Operating System: 
-Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 18:58:58 UTC
+ Last Updated on 31/05/2026 02:31:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
