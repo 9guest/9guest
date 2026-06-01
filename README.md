@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C858%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C863%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,19 +85,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    6 hrs               █████████████████████████   98.30 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+Other                    11 hrs 16 mins      █████████████████████████   98.71 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 6 mins        █████████████████████████   100.00 % 
+Chrome                   11 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            3 hrs 43 mins       ███████████████░░░░░░░░░░   60.98 % 
-FoldCraftLauncher        1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-PCL                      1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+cloud-project            8 hrs 59 mins       ████████████████████░░░░░   78.72 % 
+FoldCraftLauncher        1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+PCL                      1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Melody                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Auto-Answer              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  6 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  11 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +115,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2026 17:15:53 UTC
+ Last Updated on 01/06/2026 21:21:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
