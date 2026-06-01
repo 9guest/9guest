@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C856%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C859%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,19 +85,19 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    4 hrs 31 mins       ████████████████████████░   97.75 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Other                    6 hrs               █████████████████████████   98.30 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 37 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            1 hr 58 mins        ███████████░░░░░░░░░░░░░░   42.57 % 
-PCL                      1 hr 24 mins        ████████░░░░░░░░░░░░░░░░░   30.31 % 
-FoldCraftLauncher        1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+cloud-project            3 hrs 43 mins       ███████████████░░░░░░░░░░   60.98 % 
+FoldCraftLauncher        1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+PCL                      1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
 
 💻 Operating System: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 19:02:50 UTC
+ Last Updated on 01/06/2026 02:40:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
