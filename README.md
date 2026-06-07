@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C864%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C867%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,21 +85,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    9 hrs 45 mins       █████████████████████████   99.55 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Other                    10 hrs 48 mins      █████████████████████████   99.60 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Chrome                   9 hrs 47 mins       █████████████████████████   100.00 % 
+Chrome                   10 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            9 hrs 45 mins       █████████████████████████   99.56 % 
-Melody                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Auto-Answer              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-minecraft-quiz-solver    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+cloud-project            10 hrs 48 mins      █████████████████████████   99.60 % 
+Melody                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Auto-Answer              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+minecraft-quiz-solver    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ChatGames                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  9 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:05:07 UTC
+ Last Updated on 07/06/2026 02:35:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
