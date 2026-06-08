@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,21 +85,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    11 hrs 24 mins      █████████████████████████   99.30 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    6 hrs 27 mins       █████████████████████████   99.44 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-Chrome                   11 hrs 29 mins      █████████████████████████   100.00 % 
+Chrome                   6 hrs 29 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            10 hrs 7 mins       ██████████████████████░░░   88.19 % 
-SIRMS2-base              1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Melody                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-Auto-Answer              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-minecraft-quiz-solver    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+cloud-project            4 hrs 52 mins       ███████████████████░░░░░░   74.99 % 
+SIRMS2-base              1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
 
 💻 Operating System: 
-Windows                  11 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +112,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2026 15:28:52 UTC
+ Last Updated on 08/06/2026 20:00:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
