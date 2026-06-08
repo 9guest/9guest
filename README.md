@@ -62,6 +62,8 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C869%20hrs%2054%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
@@ -83,21 +85,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    10 hrs 48 mins      █████████████████████████   99.60 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    11 hrs 24 mins      █████████████████████████   99.30 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Chrome                   10 hrs 51 mins      █████████████████████████   100.00 % 
+Chrome                   11 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            10 hrs 48 mins      █████████████████████████   99.60 % 
-Melody                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+cloud-project            10 hrs 7 mins       ██████████████████████░░░   88.19 % 
+SIRMS2-base              1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Melody                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Auto-Answer              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-minecraft-quiz-solver    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-ChatGames                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+minecraft-quiz-solver    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  10 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +115,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 19:05:55 UTC
+ Last Updated on 08/06/2026 02:39:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
