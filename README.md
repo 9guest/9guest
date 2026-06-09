@@ -85,18 +85,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    6 hrs 27 mins       █████████████████████████   99.44 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Other                    6 hrs 18 mins       █████████████████████████   99.43 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 29 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            4 hrs 52 mins       ███████████████████░░░░░░   74.99 % 
-SIRMS2-base              1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+cloud-project            4 hrs 43 mins       ███████████████████░░░░░░   74.40 % 
+SIRMS2-base              1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
 
 💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +112,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2026 14:24:33 UTC
+ Last Updated on 09/06/2026 19:56:11 UTC
 <!--END_SECTION:waka-->
 
 </details>
