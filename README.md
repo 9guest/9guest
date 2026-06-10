@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,18 +85,18 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    6 hrs 18 mins       █████████████████████████   99.43 % 
-JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Other                    5 hrs 28 mins       █████████████████████████   99.34 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 20 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            4 hrs 43 mins       ███████████████████░░░░░░   74.40 % 
-SIRMS2-base              1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
+cloud-project            3 hrs 52 mins       ██████████████████░░░░░░░   70.14 % 
+SIRMS2-base              1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +112,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2026 14:52:38 UTC
+ Last Updated on 10/06/2026 20:11:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
