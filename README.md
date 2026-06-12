@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,36 +85,37 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    6 hrs 10 mins       ████████████████████████░   97.40 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Other                    7 hrs 1 min         ████████████████████████░   95.68 % 
+JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 20 mins       █████████████████████████   100.00 % 
+Chrome                   7 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            3 hrs 46 mins       ███████████████░░░░░░░░░░   59.63 % 
-SIRMS2-base              1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
-PCL-CE                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-PCL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+cloud-project            3 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.77 % 
+SIRMS2-base              1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+PCL-CE                   1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+PCL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+websocket-auto-answer    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ████████████░░░░░░░░░░░░░   48.39 % 
-HTML                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               15 repos            ████████████░░░░░░░░░░░░░   46.88 % 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 12/06/2026 14:34:05 UTC
+ Last Updated on 12/06/2026 19:52:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
