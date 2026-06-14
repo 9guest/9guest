@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,21 +85,21 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    7 hrs 1 min         ████████████████████████░   95.68 % 
-JavaScript               19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Other                    5 hrs 47 mins       ██████████████████████░░░   88.71 % 
+JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 21 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cloud-project            3 hrs 39 mins       ████████████░░░░░░░░░░░░░   49.77 % 
-SIRMS2-base              1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-PCL-CE                   1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-PCL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-websocket-auto-answer    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+SIRMS2-base              1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+PCL-CE                   1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+cloud-project            1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+piko                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+SACA                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
 
 💻 Operating System: 
-Windows                  7 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2026 19:07:54 UTC
+ Last Updated on 14/06/2026 02:39:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
