@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C878%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -116,7 +116,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2026 10:04:45 UTC
+ Last Updated on 18/06/2026 14:46:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
