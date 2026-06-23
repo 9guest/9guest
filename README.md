@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C883%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,20 +85,16 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    6 hrs 28 mins       █████████████████████████   99.58 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Other                    5 hrs 46 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 29 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WinNative                5 hrs 41 mins       ██████████████████████░░░   87.69 % 
-ZalithLauncher2          47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-star                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-gamehub-lite             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+WinNative                5 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +110,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 14:27:13 UTC
+ Last Updated on 23/06/2026 19:49:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
