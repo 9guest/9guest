@@ -62,7 +62,7 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C884%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -85,16 +85,16 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    5 hrs 46 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 10 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   5 hrs 46 mins       █████████████████████████   100.00 % 
+Chrome                   6 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WinNative                5 hrs 46 mins       █████████████████████████   100.00 % 
+WinNative                6 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +110,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2026 14:06:05 UTC
+ Last Updated on 24/06/2026 19:26:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
