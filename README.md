@@ -69,13 +69,13 @@
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Tuesday                  47 commits          █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Wednesday                63 commits          ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-Thursday                 75 commits          ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-Friday                   30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Saturday                 5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Monday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Tuesday                  66 commits          ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Wednesday                64 commits          █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Thursday                 75 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
+Friday                   35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Saturday                 5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Sunday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
 
 
@@ -85,32 +85,32 @@ Sunday                   19 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    52 mins             █████████████████████████   100.00 % 
+Other                    23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   52 mins             █████████████████████████   100.00 % 
+Chrome                   23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-WinNative                52 mins             █████████████████████████   100.00 % 
+WinNative                23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ████████████░░░░░░░░░░░░░   46.43 % 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+JavaScript               15 repos            ████████████░░░░░░░░░░░░░   46.88 % 
+HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 30/06/2026 13:54:56 UTC
+ Last Updated on 30/06/2026 19:42:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
