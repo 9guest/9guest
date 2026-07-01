@@ -85,16 +85,16 @@ Sunday                   23 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kuala_Lumpur
 
 💬 Programming Languages: 
-Other                    23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-WinNative                23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +110,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 14:07:20 UTC
+ Last Updated on 01/07/2026 19:29:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
