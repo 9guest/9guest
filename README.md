@@ -62,6 +62,10 @@
   ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
   
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2013%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%209%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Thursday** 
@@ -114,7 +118,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:06:35 UTC
+ Last Updated on 07/08/2026 07:00:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
