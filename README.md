@@ -18,28 +18,40 @@
 [![wakatime](https://wakatime.com/badge/user/adf46c45-86c6-450e-ba3e-1ffd3c82071c.svg)](https://wakatime.com/@adf46c45-86c6-450e-ba3e-1ffd3c82071c)
 ---
 
+<!-- PROJECTS:START -->
+## Featured Projects & Creations
+
+<table>
+<tr>
+  <td>🚀</td>
+  <td><a href='https://yecheng.qzz.io/project-detail.html?id=mirrorand'><b>MirrorAnd</b></a><br><sub>A modern, ultra-low latency Android screen mirroring & management GUI for Windows powered by Scrcpy.</sub></td>
+  <td><code>📅 Sat, 29 Aug 2026</code></td>
+</tr>
+<tr>
+  <td>🚀</td>
+  <td><a href='https://yecheng.qzz.io/project-detail.html?id=gitlab-pipeliner'><b>GitLab Pipeliner</b></a><br><sub>A lightweight, real-time GitLab CI/CD desktop monitor, job log viewer, and pipeline runner for Windows.</sub></td>
+  <td><code>📅 Fri, 13 Nov 2026</code></td>
+</tr>
+</table>
+<!-- PROJECTS:END -->
+
 <!-- BLOG-POSTS:START -->
-## Latest Blog Posts
+## Latest Updates & Blog Posts
 
 <table>
 <tr>
   <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/202508211906/'>想玩《我的世界》吗？试试 PCL 吧!</a></td>
-  <td><code>📅 Thu, 21 Au</code></td>
+  <td><a href='https://yecheng.qzz.io/posts.html#post-7ebbd4ce-5545-42eb-b791-4a72dfc309f8'>「Gitlab Pipeliner」is now live on the Microsoft Store!👉 Grab it here</a></td>
+  <td><code>📅 Tue, 17 Nov 2026</code></td>
 </tr>
 <tr>
   <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25061701/'>WF-1000XM4 🆚 WF-1000XM5</a></td>
-  <td><code>📅 Tue, 17 Ju</code></td>
-</tr>
-<tr>
-  <td>📝</td>
-  <td><a href='https://ninblog.ycstation.work/post/25041501/'>_BLZ_的同人像素鼠标指针</a></td>
-  <td><code>📅 Tue, 15 Ap</code></td>
+  <td><a href='https://yecheng.qzz.io/posts.html#post-4ce04e6d-cc00-457b-a6f5-9b78a550cebf'>「MirrorAnd」is now live on the Microsoft Store!👉 Grab it here</a></td>
+  <td><code>📅 Sat, 29 Aug 2026</code></td>
 </tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2026-11-18 00:50 UTC</i></sup></p>
+<p align='right'><sup><i>Last updated: 2026-11-18 02:56 UTC</i></sup></p>
 
 <!-- BLOG-POSTS:END -->
 

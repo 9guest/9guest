@@ -1,4 +1,4 @@
-name: Update Blog Posts on Profile
+name: Update Blog Posts and Projects on Profile
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-blog:
+  update-profile-feeds:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
@@ -22,67 +22,110 @@ jobs:
         python -m pip install --upgrade pip
         pip install feedparser beautifulsoup4
 
-    - name: Fetch and process RSS feed
+    - name: Fetch and process RSS feeds
       run: |
-        python <<EOF
+        python << 'EOF'
         import feedparser
-        from bs4 import BeautifulSoup
-        import os
-
-        # Parse the RSS feed
-        feed = feedparser.parse("https://nin-blog.vercel.app/index.xml")
-
-        # Filter items where guid starts with the post URL
-        blog_posts = [entry for entry in feed.entries 
-                     if entry.get('guid', '').startswith('https://ninblog.ycstation.work/post/')]
-
-        # Prepare markdown content
-        markdown_content = "## Latest Blog Posts\\n\\n"
-        markdown_content += "<table>\\n"
-        
-        for post in blog_posts[:5]:  # Get latest 5 posts
-            # Format the date nicely
-            try:
-                from datetime import datetime
-                date_obj = datetime.strptime(post.published[:10], '%Y-%m-%d')
-                # Format with emoji and better styling
-                pub_date = f"📅 {date_obj.strftime('%a, %d %b %Y')}"
-            except:
-                pub_date = f"📅 {post.published[:10]}"
-            
-            # Create a simpler, cleaner format with emoji
-            markdown_content += f"<tr>\\n"
-            markdown_content += f"  <td>📝</td>\\n"
-            markdown_content += f"  <td><a href='{post.link}'>{post.title}</a></td>\\n"
-            markdown_content += f"  <td><code>{pub_date}</code></td>\\n"
-            markdown_content += f"</tr>\\n"
-        
-        markdown_content += "</table>\\n"
-        
-        # Add update timestamp
+        import time
+        from email.utils import parsedate_to_datetime
         from datetime import datetime
-        current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
-        markdown_content += f"\\n<p align='right'><sup><i>Last updated: {current_time}</i></sup></p>\\n"
 
-        # Update README.md
+        def format_date(entry):
+            if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                return f"📅 {time.strftime('%a, %d %b %Y', entry.published_parsed)}"
+            if 'published' in entry and entry.published:
+                try:
+                    dt = parsedate_to_datetime(entry.published)
+                    return f"📅 {dt.strftime('%a, %d %b %Y')}"
+                except Exception:
+                    return f"📅 {entry.published[:16]}"
+            return "📅 Recent"
+
+        def build_posts_section(feed_url):
+            try:
+                feed = feedparser.parse(feed_url)
+                entries = feed.entries
+                if not entries:
+                    print(f"Warning: No entries found in {feed_url}")
+                    return None
+
+                md = "\n## Latest Updates & Blog Posts\n\n<table>\n"
+                for post in entries[:5]:
+                    pub_date = format_date(post)
+                    title = post.get('title', 'Untitled Post').replace("'", "&#39;")
+                    link = post.get('link', 'https://yecheng.qzz.io/posts.html')
+                    md += "<tr>\n"
+                    md += "  <td>📝</td>\n"
+                    md += f"  <td><a href='{link}'>{title}</a></td>\n"
+                    md += f"  <td><code>{pub_date}</code></td>\n"
+                    md += "</tr>\n"
+                md += "</table>\n"
+                return md
+            except Exception as e:
+                print(f"Error fetching posts feed: {e}")
+                return None
+
+        def build_projects_section(feed_url):
+            try:
+                feed = feedparser.parse(feed_url)
+                entries = feed.entries
+                if not entries:
+                    print(f"Warning: No entries found in {feed_url}")
+                    return None
+
+                md = "\n## Featured Projects & Creations\n\n<table>\n"
+                for proj in entries[:6]:
+                    pub_date = format_date(proj)
+                    title = proj.get('title', 'Untitled Project').replace("'", "&#39;")
+                    link = proj.get('link', 'https://yecheng.qzz.io/project.html')
+                    desc = proj.get('description', proj.get('summary', '')).replace("'", "&#39;").strip()
+                    desc_text = f"<br><sub>{desc}</sub>" if desc else ""
+
+                    md += "<tr>\n"
+                    md += "  <td>🚀</td>\n"
+                    md += f"  <td><a href='{link}'><b>{title}</b></a>{desc_text}</td>\n"
+                    md += f"  <td><code>{pub_date}</code></td>\n"
+                    md += "</tr>\n"
+                md += "</table>\n"
+                return md
+            except Exception as e:
+                print(f"Error fetching projects feed: {e}")
+                return None
+
         readme_path = 'README.md'
-        
-        # Read existing content
-        with open(readme_path, 'r') as f:
+        with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
-        
-        # Find and replace the blog posts section
-        start_marker = "<!-- BLOG-POSTS:START -->"
-        end_marker = "<!-- BLOG-POSTS:END -->"
-        
-        start_index = content.find(start_marker) + len(start_marker)
-        end_index = content.find(end_marker)
-        
-        new_content = content[:start_index] + "\\n" + markdown_content + "\\n" + content[end_index:]
-        
-        # Write back to file
-        with open(readme_path, 'w') as f:
-            f.write(new_content)
+
+        # 1. Update Projects section
+        proj_md = build_projects_section("https://yecheng.qzz.io/projects-feed.xml")
+        if proj_md:
+            p_start = "<!-- PROJECTS:START -->"
+            p_end = "<!-- PROJECTS:END -->"
+            if p_start in content and p_end in content:
+                s_idx = content.find(p_start) + len(p_start)
+                e_idx = content.find(p_end)
+                content = content[:s_idx] + proj_md + content[e_idx:]
+                print("Projects section updated successfully!")
+            else:
+                print("PROJECTS markers not found in README.md")
+
+        # 2. Update Blog Posts section
+        posts_md = build_posts_section("https://yecheng.qzz.io/feed.xml")
+        if posts_md:
+            b_start = "<!-- BLOG-POSTS:START -->"
+            b_end = "<!-- BLOG-POSTS:END -->"
+            if b_start in content and b_end in content:
+                current_time = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+                posts_md_with_ts = posts_md + f"\n<p align='right'><sup><i>Last updated: {current_time}</i></sup></p>\n"
+                s_idx = content.find(b_start) + len(b_start)
+                e_idx = content.find(b_end)
+                content = content[:s_idx] + posts_md_with_ts + content[e_idx:]
+                print("Blog posts section updated successfully!")
+            else:
+                print("BLOG-POSTS markers not found in README.md")
+
+        with open(readme_path, 'w', encoding='utf-8') as f:
+            f.write(content)
         EOF
 
     - name: Commit and push changes
@@ -90,5 +133,5 @@ jobs:
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add README.md
-        git commit -m "Update latest blog posts" || echo "No changes to commit"
+        git commit -m "Update profile projects and blog posts" || echo "No changes to commit"
         git push
