@@ -41,18 +41,17 @@
 <table>
 <tr>
   <td>📝</td>
-  <td><a href='https://yecheng.qzz.io/posts.html#post-7ebbd4ce-5545-42eb-b791-4a72dfc309f8'>「Gitlab Pipeliner」is now live on the Microsoft Store!👉 Grab it here</a></td>
+  <td><a href='https://yecheng.qzz.io/posts.html#post-7ebbd4ce-5545-42eb-b791-4a72dfc309f8'>GitLab Pipeliner</a></td>
   <td><code>📅 Tue, 17 Nov 2026</code></td>
 </tr>
 <tr>
   <td>📝</td>
-  <td><a href='https://yecheng.qzz.io/posts.html#post-4ce04e6d-cc00-457b-a6f5-9b78a550cebf'>「MirrorAnd」is now live on the Microsoft Store!👉 Grab it here</a></td>
+  <td><a href='https://yecheng.qzz.io/posts.html#post-4ce04e6d-cc00-457b-a6f5-9b78a550cebf'>MirrorAnd</a></td>
   <td><code>📅 Sat, 29 Aug 2026</code></td>
 </tr>
 </table>
 
-<p align='right'><sup><i>Last updated: 2026-11-18 02:56 UTC</i></sup></p>
-
+<p align='right'><sup><i>Last updated: 2026-11-19 00:08 UTC</i></sup></p>
 <!-- BLOG-POSTS:END -->
 
 ## My Skills
