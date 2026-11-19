@@ -1,21 +1,39 @@
-![yc-profile](./resource/profile-banner.gif)
+<div align="center">
 
----
+  <img src="./resource/profile-banner.gif" alt="Profile Banner" width="100%" />
 
-> Hey! I'm a new blogger and a curious coder, excited to share my projects and explore the blend of technology and creativity. I believe tech brings out endless possibilities, and creativity gives tech a human touch. Join me on this amazing journey!
-> 
-> 嗨！我是一名新晋博主兼好奇的程序员，喜欢分享自己的项目，探索科技与创造力的融合。我相信科技能激发无限创意，而创意又让科技充满温度。如果你也对这个领域感兴趣，欢迎和我一起踏上这段奇妙的旅程！
+  <br><br>
 
-![GitHub followers](https://img.shields.io/github/followers/9guest?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/9guest?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=ninguest&color=brightgreen)
-![Languages](https://img.shields.io/badge/EN-ZH-violet)
-[![Self](https://img.shields.io/badge/自我描述-理智型宅男-blueviolet)](https://ninblog.ycstation.work/peek/)
-[![Blog](https://img.shields.io/badge/博客中-NinBlog-brightgreen)](https://ninblog.ycstation.work)
-![Coding](https://img.shields.io/badge/热爱-尝试新事物-orange)
-[![Music](https://img.shields.io/badge/喜欢の音乐-绝美戏腔｜抒情 怀念 伤感的古风歌曲-red)](https://music.163.com/#/playlist?id=7826780259)
-![Code Time](https://img.shields.io/badge/Coding_Time-200%2B_hrs-blue)
-[![wakatime](https://wakatime.com/badge/user/adf46c45-86c6-450e-ba3e-1ffd3c82071c.svg)](https://wakatime.com/@adf46c45-86c6-450e-ba3e-1ffd3c82071c)
+  <h1>👋 Hey there, I'm YeCheng (夜城)</h1>
+
+  <p>
+    <strong>Curious Coder</strong> &nbsp;•&nbsp; 
+    <strong>Tech Blogger</strong> &nbsp;•&nbsp; 
+    <strong>理智型宅男</strong>
+  </p>
+
+  <p>
+    <em>"I believe tech brings out endless possibilities, and creativity gives tech a human touch."</em><br>
+    <em>「我相信科技能激发无限创意，而创意又让科技充满温度。」</em>
+  </p>
+
+  <p>
+    <a href="https://github.com/9guest?tab=followers"><img src="https://img.shields.io/github/followers/9guest?label=Followers&style=flat-square&color=0284c7" alt="GitHub followers" /></a>
+    <a href="https://github.com/9guest"><img src="https://img.shields.io/github/stars/9guest?affiliations=OWNER%2CCOLLABORATOR&label=Stars&style=flat-square&color=f59e0b" alt="GitHub stars" /></a>
+    <img src="https://komarev.com/ghpvc/?username=ninguest&color=10b981&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <a href="https://codetime.dev"><img src="https://shields.jannchie.com/endpoint?style=flat-square&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D32512" alt="CodeTime" /></a>
+  </p>
+
+  <p>
+    <a href="https://yecheng.qzz.io/"><img src="https://img.shields.io/badge/Blog-夜城·YC-22c55e?style=flat-square&logo=blogger&logoColor=white" alt="Blog" /></a>
+    <a href="https://yecheng.qzz.io/profile"><img src="https://img.shields.io/badge/About%20Me-理智型宅男-8b5cf6?style=flat-square&logo=aboutdotme&logoColor=white" alt="About Me" /></a>
+    <a href="https://music.163.com/#/playlist?id=7826780259"><img src="https://img.shields.io/badge/Music-戏腔｜古风抒情-ef4444?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="Music" /></a>
+    <img src="https://img.shields.io/badge/Languages-EN%20%7C%20ZH-6366f1?style=flat-square" alt="Languages" />
+    <img src="https://img.shields.io/badge/Motto-热爱%20%7C%20探索新事物-f97316?style=flat-square" alt="Motto" />
+  </p>
+
+</div>
+
 ---
 
 <!-- PROJECTS:START -->
@@ -54,95 +72,63 @@
 <p align='right'><sup><i>Last updated: 2026-11-19 00:08 UTC</i></sup></p>
 <!-- BLOG-POSTS:END -->
 
-## My Skills
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,discordjs,bots,django,docker,html,css,js,bootstrap,jquery,electron,express,flask,gcp,git,githubactions,kafka,markdown,mongodb,mysql,npm,python,redis,spring,yarn&perline=10)](https://skillicons.dev)
+## 🛠️ Tech Stack & Skills
 
-## My Tools
+<div align="center">
+  <p><strong>Languages & Frameworks</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,js,nodejs,django,flask,spring,electron,express,bootstrap,jquery,html,css,mongodb,mysql,redis,kafka,docker,gcp,git,githubactions,npm,yarn,markdown,discordjs,bots&perline=14" alt="My Skills" />
+  </a>
+  <br><br>
+  <p><strong>Tools & Environment</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,webstorm,windows,ubuntu,linux,debian,arch,mint,apple,raspberrypi,arduino,bash,powershell,postman,cloudflare,vercel,heroku,notion,codepen,stackoverflow,gmail,discord,twitter,instagram,linkedin,mastodon&perline=14" alt="My Tools" />
+  </a>
+</div>
 
-[![My Tools](https://skillicons.dev/icons?i=androidstudio,apple,arch,arduino,bash,cloudflare,codepen,debian,discord,github,gmail,heroku,idea,instagram,linkedin,linux,mastodon,mint,notion,postman,powershell,raspberrypi,stackoverflow,twitter,ubuntu,vercel,vscode,webstorm,windows&perline=10)](https://skillicons.dev)
+---
 
-## More
+## 📊 Coding Analytics & Activity
+
+<div align="center">
+  <p>
+    <a href="https://codetime.dev">
+      <img src="https://codetime.dev/api/widgets/status.svg?uid=32512" alt="CodeTime Status" />
+    </a>
+    <a href="https://codetime.dev">
+      <img src="https://codetime.dev/api/widgets/donut.svg?uid=32512" alt="CodeTime Language Donut" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/9guest">
+      <img src="https://github-readme-stats.vercel.app/api?username=9guest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="9guest's GitHub Stats" />
+    </a>
+    <a href="https://github.com/9guest">
+      <img src="https://streak-stats.demolab.com/?user=9guest&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+    </a>
+  </p>
+</div>
+
+---
 
 <details>
-  
-  <summary>📊 My Coding Stats</summary>
- 
-  <br>
-
-  ![My's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kyuguest\&layout=compact)
-  
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2013%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%209%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-Tuesday                  73 commits          █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
-Wednesday                76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Thursday                 90 commits          ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Friday                   47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-Sunday                   60 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kuala_Lumpur
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            █████████████░░░░░░░░░░░░   51.22 % 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Kotlin                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Svelte                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-```
-
-
-
-
- Last Updated on 01/11/2026 12:18:21 UTC
-<!--END_SECTION:waka-->
-
-</details>
-<details>
-  <summary>😘 Support My Work</summary>
+  <summary>💖 <b>Support My Work / 赞助支持</b></summary>
   <br>
   <div align="center">
-  
-  ### 💖 Support YC Lab
-    
-  If you use my tools and want to support further development, feel free to drop a tip!
-    
-  [<img src="https://img.shields.io/badge/Sponsor-YC_Lab-magenta?style=for-the-badge&logo=ko-fi&logoColor=white" />](https://9guest.github.io/projectDocs/support/support.html)
-  
+    <p>If you enjoy my open-source tools and articles, feel free to drop a tip to fuel further development!</p>
+    <p>如果你觉得我的开源项目对你有帮助，欢迎赞助支持，感谢每一份鼓励！</p>
+    <br>
+    <a href="https://9guest.github.io/projectDocs/support/support.html">
+      <img src="https://img.shields.io/badge/Sponsor-YC_Lab-magenta?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Sponsor YC Lab" />
+    </a>
   </div>
 </details>
+
+<br>
+
+<div align="center">
+  <sub>Designed with ❤️ by <a href="https://yecheng.qzz.io/">YeCheng (夜城)</a> • Powered by GitHub & CodeTime</sub>
+</div>
